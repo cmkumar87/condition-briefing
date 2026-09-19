@@ -1,0 +1,4745 @@
+[
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "Cardiotoxicity from anti-leukemic therapies remains a major concern in pediatric hemato-oncology - often subclinical in the short term but potentially life-threatening in the long term. In children, who are exposed to cardiotoxic treatments at an early age and have long life expectancies, a proactive strategy for prevention, early detection, and management is essential. Anthracyclines remain a cornerstone of pediatric acute leukemia treatment but are associated with a risk of heart failure in approximately 10% of cases, particularly at cumulative doses exceeding 300mg/m2 of doxorubicin-equivalent. Dexrazoxane, once controversial, is now supported by robust data demonstrating both safety and cardioprotective efficacy. Its use is recommended alongside anthracyclines in patients receiving a cumulative dose≥300mg/m2 of doxorubicin-equivalent. Other agents - including tyrosine kinase inhibitors, immunotherapies, and CAR-T cells - also carry cardiotoxic potential, warranting tailored monitoring strategies. These multidisciplinary SFCE-endorsed recommendations emphasize the need for early and repeated assessment of cardiovascular risk factors throughout treatment. A dedicated heart team, involving pediatric cardiologists and pediatric hematologists, should coordinate active surveillance, including management of modifiable cardiovascular risk factors and systematic imaging with global longitudinal strain, which is more sensitive than ejection fraction in detecting subclinical dysfunction. Prospective pediatric studies are needed to define age-appropriate imaging thresholds, validate the role of cardiac biomarkers, and assess liposomal anthracycline formulations. If confirmed to be both safe and effective, such agents should be integrated into future treatment protocols to enhance long-term cardioprotection without compromising anti-leukemic efficacy.",
+      "citation_count": 0,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.1016/j.bulcan.2026.03.006",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Bulletin du cancer",
+      "journal_abbrev": "Bull Cancer",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "42315465",
+      "pub_date": "2026 Jul-Aug",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "English Abstract",
+        "Review"
+      ],
+      "rcr": null,
+      "year": 2026
+    },
+    "native_id": "42315465",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "42315465"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1016/j.bulcan.2026.03.006"
+          },
+          {
+            "idtype": "pii",
+            "idtypen": 4,
+            "value": "S0007-4551(26)00222-5"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Delafoy M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Vincenti M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Roussel A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Prigent S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rialland F"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Doulet ST"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hauet Q"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Broccia MV"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rabian F"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Poirée M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Tabone MD"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "El-Louali F"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Saultier P"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1016/j.bulcan.2026.03.006",
+        "epubdate": "2026 Jun 18",
+        "essn": "1769-6917",
+        "fulljournalname": "Bulletin du cancer",
+        "history": [
+          {
+            "date": "2025/09/05 00:00",
+            "pubstatus": "received"
+          },
+          {
+            "date": "2026/03/04 00:00",
+            "pubstatus": "revised"
+          },
+          {
+            "date": "2026/03/12 00:00",
+            "pubstatus": "accepted"
+          },
+          {
+            "date": "2026/07/18 00:38",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/06/19 00:36",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/06/18 21:59",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "0007-4551",
+        "issue": "7-8",
+        "lang": [
+          "fre"
+        ],
+        "lastauthor": "Saultier P",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "0072416",
+        "pages": "924-942",
+        "pmcrefcount": "",
+        "pubdate": "2026 Jul-Aug",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline",
+          "English Abstract",
+          "Review"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Delafoy M",
+        "sortpubdate": "2026/07/01 00:00",
+        "sorttitle": "cardiotoxicity in children and adolescents with acute leukemia recommendations from the leukemia committee of the french society of childhood cancer sfce",
+        "source": "Bull Cancer",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "[Cardiotoxicity in children and adolescents with acute leukemia: Recommendations from the Leukemia Committee of the French Society of Childhood Cancer (SFCE)].",
+        "uid": "42315465",
+        "vernaculartitle": "Cardiotoxicité chez les enfants et adolescents atteints de leucémie aiguë : recommandations du Comité leucémies de la Société française de lutte contre les cancers et les leucémies de l’enfant et de l’adolescent (SFCE).",
+        "volume": "113"
+      },
+      "icite": {
+        "_id": "42315465",
+        "animal": 0.0,
+        "apt": 0.05,
+        "authors": [
+          {
+            "firstName": "Manon",
+            "fullName": "Delafoy, Manon",
+            "lastName": "Delafoy"
+          },
+          {
+            "firstName": "Marie",
+            "fullName": "Vincenti, Marie",
+            "lastName": "Vincenti"
+          },
+          {
+            "firstName": "Aphaia",
+            "fullName": "Roussel, Aphaia",
+            "lastName": "Roussel"
+          },
+          {
+            "firstName": "Solène",
+            "fullName": "Prigent, Solène",
+            "lastName": "Prigent"
+          },
+          {
+            "firstName": "Fanny",
+            "fullName": "Rialland, Fanny",
+            "lastName": "Rialland"
+          },
+          {
+            "firstName": "Sandrine Thouvenin",
+            "fullName": "Doulet, Sandrine Thouvenin",
+            "lastName": "Doulet"
+          },
+          {
+            "firstName": "Quentin",
+            "fullName": "Hauet, Quentin",
+            "lastName": "Hauet"
+          },
+          {
+            "firstName": "Mathilde Veneziano",
+            "fullName": "Broccia, Mathilde Veneziano",
+            "lastName": "Broccia"
+          },
+          {
+            "firstName": "Florence",
+            "fullName": "Rabian, Florence",
+            "lastName": "Rabian"
+          },
+          {
+            "firstName": "Marilyne",
+            "fullName": "Poirée, Marilyne",
+            "lastName": "Poirée"
+          },
+          {
+            "firstName": "Marie-Dominique",
+            "fullName": "Tabone, Marie-Dominique",
+            "lastName": "Tabone"
+          },
+          {
+            "firstName": "Fedoua",
+            "fullName": "El-Louali, Fedoua",
+            "lastName": "El-Louali"
+          },
+          {
+            "firstName": "Paul",
+            "fullName": "Saultier, Paul",
+            "lastName": "Saultier"
+          }
+        ],
+        "citation_count": 0,
+        "citations_per_year": 0.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": null,
+        "cited_by": null,
+        "cited_by_clin": null,
+        "doi": "10.1016/j.bulcan.2026.03.006",
+        "expected_citations_per_year": null,
+        "field_citation_rate": null,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "Bull Cancer",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 42315465,
+        "provisional": false,
+        "references": [
+          22124095,
+          39142438,
+          22730540,
+          29747541,
+          38539413,
+          38215763,
+          29105081,
+          31433450,
+          37552303,
+          34904661,
+          40413218,
+          30442497,
+          16374818,
+          37182052,
+          26237429,
+          26834065,
+          27810144,
+          20660845,
+          19996459,
+          21900104,
+          36017568,
+          28336372,
+          38908726,
+          26938118,
+          29874141,
+          37052966,
+          32735868,
+          36014785,
+          27183526,
+          27567406,
+          11896119,
+          27552363,
+          38532515,
+          26345518,
+          28462084,
+          23166343,
+          25616318,
+          36476893,
+          24002505,
+          32063753,
+          26049414,
+          38227937,
+          28453909,
+          30703192,
+          34889355,
+          23441093,
+          29764117,
+          27732808,
+          32795226,
+          36135069,
+          36174614,
+          32463967,
+          32642841,
+          32621569,
+          11230490,
+          18855640,
+          29217664,
+          27996161,
+          22802310,
+          36162822,
+          36669148,
+          9193351,
+          23319696,
+          38205005,
+          37737681,
+          32343641,
+          10933366,
+          33108003,
+          29862412,
+          21678342,
+          37476575,
+          32098808,
+          34821983,
+          25287823,
+          36229093,
+          27197003,
+          24081971,
+          25134924,
+          23861158,
+          35167907,
+          32772754
+        ],
+        "relative_citation_ratio": null,
+        "title": "[Cardiotoxicity in children and adolescents with acute leukemia: Recommendations from the Leukemia Committee of the French Society of Childhood Cancer (SFCE)].",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:42315465",
+    "source_type": "literature",
+    "text": "[Cardiotoxicity in children and adolescents with acute leukemia: Recommendations from the Leukemia Committee of the French Society of Childhood Cancer (SFCE)]\n\nJournal: Bulletin du cancer\nPublication date: 2026 Jul-Aug\nPublication types: Journal Article, Practice Guideline, English Abstract, Review\nPMID: 42315465\nDOI: 10.1016/j.bulcan.2026.03.006\n\nAbstract:\nCardiotoxicity from anti-leukemic therapies remains a major concern in pediatric hemato-oncology - often subclinical in the short term but potentially life-threatening in the long term. In children, who are exposed to cardiotoxic treatments at an early age and have long life expectancies, a proactive strategy for prevention, early detection, and management is essential. Anthracyclines remain a cornerstone of pediatric acute leukemia treatment but are associated with a risk of heart failure in approximately 10% of cases, particularly at cumulative doses exceeding 300mg/m2 of doxorubicin-equivalent. Dexrazoxane, once controversial, is now supported by robust data demonstrating both safety and cardioprotective efficacy. Its use is recommended alongside anthracyclines in patients receiving a cumulative dose≥300mg/m2 of doxorubicin-equivalent. Other agents - including tyrosine kinase inhibitors, immunotherapies, and CAR-T cells - also carry cardiotoxic potential, warranting tailored monitoring strategies. These multidisciplinary SFCE-endorsed recommendations emphasize the need for early and repeated assessment of cardiovascular risk factors throughout treatment. A dedicated heart team, involving pediatric cardiologists and pediatric hematologists, should coordinate active surveillance, including management of modifiable cardiovascular risk factors and systematic imaging with global longitudinal strain, which is more sensitive than ejection fraction in detecting subclinical dysfunction. Prospective pediatric studies are needed to define age-appropriate imaging thresholds, validate the role of cardiac biomarkers, and assess liposomal anthracycline formulations. If confirmed to be both safe and effective, such agents should be integrated into future treatment protocols to enhance long-term cardioprotection without compromising anti-leukemic efficacy.",
+    "text_sha": "689cc5bfb5ae4b25",
+    "title": "[Cardiotoxicity in children and adolescents with acute leukemia: Recommendations from the Leukemia Committee of the French Society of Childhood Cancer (SFCE)]",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42315465/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "AIM: The \"2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome\" retires, replaces, and expands upon the \"2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults.\" The primary intended audience for this guideline is clinicians who care for patients across the spectrum of cardiovascular-kidney-metabolic syndrome, an interrelated condition characterized by the interconnections among metabolic risk factors (including obesity and type 2 diabetes), chronic kidney disease, and cardiovascular disease.\nMETHODS: A comprehensive literature search was conducted from October 29, 2024, to April 14, 2025, to identify clinical studies, systematic reviews and meta-analyses, and other evidence conducted on human subjects that were published since 2015 in English from MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline.\nSTRUCTURE: The focus of this clinical practice guideline is to create a living, working document that provides current knowledge in the field of cardiovascular-kidney-metabolic syndrome aimed at all practicing cardiologists, endocrinologists, nephrologists, and primary care and specialty clinicians who manage these patients.",
+      "citation_count": 14,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.1016/j.jacc.2026.03.056",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Journal of the American College of Cardiology",
+      "journal_abbrev": "J Am Coll Cardiol",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "42265997",
+      "pub_date": "2026 Jun 9",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "rcr": 7.722942045121199,
+      "year": 2026
+    },
+    "native_id": "42265997",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "42265997"
+          },
+          {
+            "idtype": "mid",
+            "idtypen": 8,
+            "value": "NIHMS2189602"
+          },
+          {
+            "idtype": "pmc",
+            "idtypen": 8,
+            "value": "PMC13399222"
+          },
+          {
+            "idtype": "pmcid",
+            "idtypen": 5,
+            "value": "pmc-id: PMC13399222;manuscript-id: NIHMS2189602;"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1016/j.jacc.2026.03.056"
+          },
+          {
+            "idtype": "pii",
+            "idtypen": 4,
+            "value": "S0735-1097(26)05900-0"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ndumele CE"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rodriguez F"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Dixon DL"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Khan SS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mukherjee D"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bajaj M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bangalore S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bozkurt B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Breathett K"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Clarke SL"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "de Boer IH"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ellison DH"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Evangelista LS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Heffron SP"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kazi DS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kulshreshtha A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lingvay I"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Low Wang CC"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mercado CA"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Morton JM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Neeland IJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Pagidipati N"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Powell-Wiley TM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rangaswami J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rao G"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Reza N"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Saeed A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "St Peter W"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Starks JB"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sterling M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Talbot AW"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Tran AH"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Tuttle KR"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "VanWagner LB"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Vest AR"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Virani SS"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1016/j.jacc.2026.03.056",
+        "epubdate": "",
+        "essn": "1558-3597",
+        "fulljournalname": "Journal of the American College of Cardiology",
+        "history": [
+          {
+            "date": "2026/06/12 13:03",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/06/10 06:52",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/06/10 02:28",
+            "pubstatus": "entrez"
+          },
+          {
+            "date": "2026/07/24 00:00",
+            "pubstatus": "pmc-release"
+          }
+        ],
+        "issn": "0735-1097",
+        "issue": "22S",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Virani SS",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "8301365",
+        "pages": "e1889-e2007",
+        "pmcrefcount": 1054,
+        "pubdate": "2026 Jun 9",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "4",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Ndumele CE",
+        "sortpubdate": "2026/06/09 00:00",
+        "sorttitle": "2026 aha acc ada asn guideline for the prevention detection evaluation and management of cardiovascular kidney metabolic syndrome a report of the american college of cardiology american heart association joint committee on clinical practice guidelines",
+        "source": "J Am Coll Cardiol",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+        "uid": "42265997",
+        "vernaculartitle": "",
+        "volume": "87"
+      },
+      "icite": {
+        "_id": "42265997",
+        "animal": 0.0,
+        "apt": 0.5,
+        "authors": [
+          {
+            "firstName": "Chiadi E",
+            "fullName": "Ndumele, Chiadi E",
+            "lastName": "Ndumele"
+          },
+          {
+            "firstName": "Fatima",
+            "fullName": "Rodriguez, Fatima",
+            "lastName": "Rodriguez"
+          },
+          {
+            "firstName": "Dave L",
+            "fullName": "Dixon, Dave L",
+            "lastName": "Dixon"
+          },
+          {
+            "firstName": "Sadiya S",
+            "fullName": "Khan, Sadiya S",
+            "lastName": "Khan"
+          },
+          {
+            "firstName": "Debabrata",
+            "fullName": "Mukherjee, Debabrata",
+            "lastName": "Mukherjee"
+          },
+          {
+            "firstName": "Mandeep",
+            "fullName": "Bajaj, Mandeep",
+            "lastName": "Bajaj"
+          },
+          {
+            "firstName": "Sripal",
+            "fullName": "Bangalore, Sripal",
+            "lastName": "Bangalore"
+          },
+          {
+            "firstName": "Biykem",
+            "fullName": "Bozkurt, Biykem",
+            "lastName": "Bozkurt"
+          },
+          {
+            "firstName": "Khadijah",
+            "fullName": "Breathett, Khadijah",
+            "lastName": "Breathett"
+          },
+          {
+            "firstName": "Shoa L",
+            "fullName": "Clarke, Shoa L",
+            "lastName": "Clarke"
+          },
+          {
+            "firstName": "Ian H",
+            "fullName": "De Boer, Ian H",
+            "lastName": "De Boer"
+          },
+          {
+            "firstName": "David H",
+            "fullName": "Ellison, David H",
+            "lastName": "Ellison"
+          },
+          {
+            "firstName": "Lorraine S",
+            "fullName": "Evangelista, Lorraine S",
+            "lastName": "Evangelista"
+          },
+          {
+            "firstName": "Sean P",
+            "fullName": "Heffron, Sean P",
+            "lastName": "Heffron"
+          },
+          {
+            "firstName": "Dhruv S",
+            "fullName": "Kazi, Dhruv S",
+            "lastName": "Kazi"
+          },
+          {
+            "firstName": "Ambar",
+            "fullName": "Kulshreshtha, Ambar",
+            "lastName": "Kulshreshtha"
+          },
+          {
+            "firstName": "Ildiko",
+            "fullName": "Lingvay, Ildiko",
+            "lastName": "Lingvay"
+          },
+          {
+            "firstName": "Cecilia C",
+            "fullName": "Low Wang, Cecilia C",
+            "lastName": "Low Wang"
+          },
+          {
+            "firstName": "Claudia A",
+            "fullName": "Mercado, Claudia A",
+            "lastName": "Mercado"
+          },
+          {
+            "firstName": "John Magaña",
+            "fullName": "Morton, John Magaña",
+            "lastName": "Morton"
+          },
+          {
+            "firstName": "Ian J",
+            "fullName": "Neeland, Ian J",
+            "lastName": "Neeland"
+          },
+          {
+            "firstName": "Neha",
+            "fullName": "Pagidipati, Neha",
+            "lastName": "Pagidipati"
+          },
+          {
+            "firstName": "Tiffany M",
+            "fullName": "Powell-Wiley, Tiffany M",
+            "lastName": "Powell-Wiley"
+          },
+          {
+            "firstName": "Janani",
+            "fullName": "Rangaswami, Janani",
+            "lastName": "Rangaswami"
+          },
+          {
+            "firstName": "Goutham",
+            "fullName": "Rao, Goutham",
+            "lastName": "Rao"
+          },
+          {
+            "firstName": "Nosheen",
+            "fullName": "Reza, Nosheen",
+            "lastName": "Reza"
+          },
+          {
+            "firstName": "Anum",
+            "fullName": "Saeed, Anum",
+            "lastName": "Saeed"
+          },
+          {
+            "firstName": "Wendy",
+            "fullName": "S T Peter, Wendy",
+            "lastName": "S T Peter"
+          },
+          {
+            "firstName": "J Bradley",
+            "fullName": "Starks, J Bradley",
+            "lastName": "Starks"
+          },
+          {
+            "firstName": "Madeline",
+            "fullName": "Sterling, Madeline",
+            "lastName": "Sterling"
+          },
+          {
+            "firstName": "Amy W",
+            "fullName": "Talbot, Amy W",
+            "lastName": "Talbot"
+          },
+          {
+            "firstName": "Andrew H",
+            "fullName": "Tran, Andrew H",
+            "lastName": "Tran"
+          },
+          {
+            "firstName": "Katherine R",
+            "fullName": "Tuttle, Katherine R",
+            "lastName": "Tuttle"
+          },
+          {
+            "firstName": "Lisa B",
+            "fullName": "VanWagner, Lisa B",
+            "lastName": "VanWagner"
+          },
+          {
+            "firstName": "Amanda R",
+            "fullName": "Vest, Amanda R",
+            "lastName": "Vest"
+          },
+          {
+            "firstName": "Salim S",
+            "fullName": "Virani, Salim S",
+            "lastName": "Virani"
+          }
+        ],
+        "citation_count": 14,
+        "citations_per_year": 14.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": [
+          {
+            "42566275": 2026
+          },
+          {
+            "42564053": 2026
+          },
+          {
+            "42263011": 2026
+          },
+          {
+            "42522049": 2026
+          },
+          {
+            "42539104": 2026
+          },
+          {
+            "42569547": 2026
+          },
+          {
+            "42590157": 2026
+          },
+          {
+            "42621462": 2026
+          },
+          {
+            "42263012": 2026
+          },
+          {
+            "42587350": 2026
+          },
+          {
+            "42530340": 2026
+          },
+          {
+            "42514264": 2026
+          },
+          {
+            "42439602": 2026
+          },
+          {
+            "42511515": 2026
+          }
+        ],
+        "cited_by": [
+          42566275,
+          42564053,
+          42263011,
+          42522049,
+          42539104,
+          42569547,
+          42590157,
+          42621462,
+          42263012,
+          42587350,
+          42530340,
+          42514264,
+          42439602,
+          42511515
+        ],
+        "cited_by_clin": null,
+        "doi": "10.1016/j.jacc.2026.03.056",
+        "expected_citations_per_year": 1.8127806628879464,
+        "field_citation_rate": 13.176752828843702,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "J Am Coll Cardiol",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 42265997,
+        "provisional": true,
+        "references": [
+          33358959,
+          23808982,
+          34998993,
+          2057034,
+          40997146,
+          38914124,
+          32012316,
+          39216091,
+          41824552,
+          38669015,
+          38950402,
+          38869007,
+          33112399,
+          38846711,
+          35470214,
+          34922873,
+          36507632,
+          40165126,
+          27942709,
+          30121239,
+          35226558,
+          33882682,
+          19147051,
+          34922872,
+          32877581,
+          30343393,
+          18591398,
+          29558462,
+          38411644,
+          27531506,
+          30843102,
+          29859908,
+          25660356,
+          35418240,
+          26746456,
+          34570916,
+          30293134,
+          36651168,
+          38015216,
+          37728949,
+          38999350,
+          40997152,
+          30326501,
+          38439085,
+          40737004,
+          25750589,
+          28110911,
+          34148375,
+          21996391,
+          34543068,
+          38375882,
+          26240271,
+          34037681,
+          27813300,
+          35451488,
+          23408728,
+          28743190,
+          37845825,
+          23397514,
+          32333946,
+          38587233,
+          28106956,
+          27717130,
+          35020750,
+          38851997,
+          36006608,
+          27045641,
+          39284695,
+          20123666,
+          37787795,
+          39412509,
+          29655829,
+          30291013,
+          36326117,
+          10335688,
+          37685671,
+          34256144,
+          21896934,
+          11122588,
+          33599985,
+          16461820,
+          24352617,
+          39507886,
+          36763159,
+          38856224,
+          9683204,
+          37940161,
+          41211925,
+          32864246,
+          39034835,
+          29683911,
+          28827377,
+          39870816,
+          27535349,
+          41712677,
+          35103609,
+          38043043,
+          1986996,
+          34119468,
+          38743805,
+          39902461,
+          22085317,
+          28228456,
+          33231670,
+          28605608,
+          39667523,
+          39566872,
+          37610754,
+          36027570,
+          28099824,
+          24474651,
+          39551169,
+          40997143,
+          39322534,
+          33031522,
+          33709339,
+          18206734,
+          29335400,
+          35115099,
+          30002098,
+          37289905,
+          31986081,
+          27377576,
+          37861548,
+          39093256,
+          31639756,
+          38445559,
+          35023547,
+          40354448,
+          29748185,
+          37562748,
+          30326126,
+          41003463,
+          35603599,
+          38521116,
+          38710952,
+          38159162,
+          17283263,
+          39320289,
+          35239204,
+          28283309,
+          38904644,
+          34399433,
+          15649727,
+          36027560,
+          30018227,
+          37952180,
+          38752899,
+          39116212,
+          24370845,
+          32278678,
+          39342059,
+          36351458,
+          35369707,
+          32470456,
+          29487077,
+          26487769,
+          39651975,
+          39217553,
+          29204536,
+          37253796,
+          30122305,
+          38991583,
+          37682131,
+          29037238,
+          39483514,
+          38490803,
+          38466244,
+          30326125,
+          25212233,
+          25572516,
+          21148304,
+          30586767,
+          19695853,
+          25810229,
+          30896648,
+          38987454,
+          35470055,
+          22607822,
+          31279902,
+          31535829,
+          11136953,
+          41123898,
+          37811017,
+          31931608,
+          35363499,
+          37741858,
+          35583146,
+          36281763,
+          38570632,
+          18826999,
+          32476254,
+          32773223,
+          36927680,
+          36121656,
+          35904203,
+          32670197,
+          24515422,
+          39159624,
+          36960908,
+          38016699,
+          33185364,
+          29688297,
+          28859943,
+          38831564,
+          10938048,
+          36727674,
+          39651976,
+          35393067,
+          15492298,
+          30586774,
+          33165941,
+          31185157,
+          26612139,
+          39292486,
+          27483064,
+          40235437,
+          30694319,
+          33181154,
+          30586766,
+          30879355,
+          29850922,
+          17675643,
+          38850440,
+          12556541,
+          36370007,
+          20673995,
+          32763241,
+          21601327,
+          37188442,
+          25369829,
+          38035566,
+          34449181,
+          38073563,
+          27518283,
+          21521449,
+          40465279,
+          20946676,
+          23623998,
+          34001645,
+          32425454,
+          35881115,
+          35879524,
+          39697043,
+          39027934,
+          37344038,
+          17848652,
+          21216446,
+          32020062,
+          24552851,
+          37028749,
+          39377137,
+          32972526,
+          31365087,
+          32683103,
+          33556935,
+          38325988,
+          40512113,
+          38785209,
+          32843054,
+          31020900,
+          30894318,
+          23508758,
+          21788592,
+          37532422,
+          38848064,
+          36870047,
+          38700053,
+          26848062,
+          37952131,
+          31672135,
+          17766528,
+          21906798,
+          34805309,
+          37498594,
+          21450617,
+          38610024,
+          38248365,
+          39651981,
+          34964868,
+          37579311,
+          21502576,
+          30403772,
+          33890242,
+          31862757,
+          38614444,
+          25573506,
+          36892090,
+          32563261,
+          22276822,
+          40156843,
+          25706240,
+          33139407,
+          34380703,
+          32966714,
+          33422434,
+          37171231,
+          32362133,
+          26654259,
+          25257365,
+          25369489,
+          35354153,
+          15734833,
+          39818667,
+          26420442,
+          39651986,
+          27595918,
+          30424892,
+          34964873,
+          39478779,
+          37471273,
+          21352080,
+          30383139,
+          40305708,
+          36377603,
+          36758710,
+          35468325,
+          36622115,
+          26947216,
+          31189511,
+          39240930,
+          32739172,
+          35441470,
+          25752449,
+          36724989,
+          38436787,
+          35929542,
+          19786682,
+          41003462,
+          25126981,
+          38727771,
+          16368297,
+          36314122,
+          20831624,
+          34170647,
+          25425451,
+          34636161,
+          38218589,
+          36246516,
+          33278832,
+          20378078,
+          20424251,
+          39651970,
+          38718139,
+          39127954,
+          38619824,
+          30213332,
+          29694293,
+          38744428,
+          33557578,
+          33755728,
+          35484505,
+          26997583,
+          30061070,
+          33999544,
+          38212255,
+          26868137,
+          28710205,
+          30672083,
+          30421335,
+          25665582,
+          36757644,
+          38711748,
+          32111376,
+          33214158,
+          33342586,
+          28823585,
+          27299675,
+          28329057,
+          38907684,
+          34672967,
+          34024117,
+          28062142,
+          36378203,
+          36781624,
+          32326806,
+          28844192,
+          33769850,
+          31005541,
+          30423393,
+          36765019,
+          39475817,
+          40160565,
+          25176015,
+          30415628,
+          29673873,
+          32333236,
+          38766861,
+          11187414,
+          37049454,
+          31422062,
+          27580477,
+          21709559,
+          17339187,
+          28911506,
+          29133606,
+          37971889,
+          37154053,
+          38583146,
+          32187500,
+          19805651,
+          37385278,
+          15149345,
+          39226189,
+          28544202,
+          31135733,
+          33419719,
+          39841962,
+          34013739,
+          37294089,
+          37895151,
+          11295963,
+          40539956,
+          40137838,
+          37905515,
+          20843978,
+          34895950,
+          33930434,
+          30326502,
+          37648583,
+          32027911,
+          34705020,
+          32022875,
+          27206478,
+          37460681,
+          37527735,
+          28199805,
+          31872338,
+          9014971,
+          36272764,
+          33073581,
+          23117780,
+          38912654,
+          33236481,
+          35766033,
+          27397659,
+          28490337,
+          31814505,
+          25953369,
+          37331413,
+          38664450,
+          37380016,
+          20664019,
+          36321278,
+          37622666,
+          38739396,
+          36331190,
+          27571284,
+          27881560,
+          38934111,
+          37419006,
+          27058907,
+          28828487,
+          29977645,
+          36082522,
+          36216945,
+          35394821,
+          40185112,
+          33931956,
+          33316282,
+          18256393,
+          21115765,
+          32877652,
+          32635174,
+          32687819,
+          20797567,
+          31642870,
+          38033089,
+          26551006,
+          20952583,
+          30003901,
+          30339231,
+          39798186,
+          26823554,
+          37947085,
+          33867441,
+          34144086,
+          35363951,
+          11565518,
+          35569886,
+          25125077,
+          40939703,
+          33624440,
+          18664543,
+          21718910,
+          37164523,
+          35689669,
+          37622681,
+          33264825,
+          37921763,
+          34425083,
+          29762737,
+          31322693,
+          29941240,
+          22987062,
+          31102402,
+          35104325,
+          29202209,
+          31167558,
+          34313742,
+          26914592,
+          11333990,
+          40085108,
+          23125955,
+          27709794,
+          18212316,
+          23229914,
+          31753278,
+          24307184,
+          40169145,
+          18054942,
+          27091899,
+          28162150,
+          36471550,
+          28209765,
+          38717747,
+          39305981,
+          35788061,
+          27295427,
+          37952217,
+          39243861,
+          34882435,
+          36280539,
+          35379503,
+          25595383,
+          11832527,
+          8222122,
+          36367466,
+          38701400,
+          21481449,
+          25145930,
+          36336720,
+          20838985,
+          40353578,
+          33107592,
+          35766027,
+          33043620,
+          39834714,
+          32052997,
+          31668450,
+          30409567,
+          30622090,
+          33560320,
+          34272327,
+          32129809,
+          19175496,
+          30882238,
+          34752913,
+          29849003,
+          34358471,
+          35015037,
+          39556396,
+          16443789,
+          37950893,
+          21392646,
+          30786725,
+          36934740,
+          35100355,
+          40183678,
+          31900793,
+          38663919,
+          30415601,
+          38430320,
+          37807924,
+          39225278,
+          33951361,
+          39037780,
+          35239404,
+          24297797,
+          36576812,
+          33269599,
+          19654593,
+          40470996,
+          28522450,
+          36780391,
+          22257685,
+          36669322,
+          39792537,
+          38923272,
+          27438330,
+          29483060,
+          34427599,
+          31753277,
+          38739118,
+          38413012,
+          29117273,
+          33567185,
+          31260026,
+          30104301,
+          36129997,
+          38048671,
+          23736733,
+          32598218,
+          33119080,
+          35472672,
+          38679221,
+          26945047,
+          34919135,
+          31707797,
+          39316661,
+          32970396,
+          37471501,
+          34580995,
+          40392993,
+          32667128,
+          38113046,
+          30201636,
+          32404325,
+          33754795,
+          29151714,
+          27039128,
+          42263147,
+          19036065,
+          27790809,
+          39181597,
+          30704553,
+          19628117,
+          35422238,
+          34255049,
+          30990260,
+          34713711,
+          38734634,
+          39570234,
+          36380111,
+          30616027,
+          33779213,
+          32048787,
+          38223296,
+          34081137,
+          20876206,
+          38583093,
+          32865377,
+          10418856,
+          20559296,
+          26378978,
+          41045906,
+          33103469,
+          26093765,
+          41712898,
+          37947094,
+          27571048,
+          25865049,
+          27440518,
+          33899338,
+          15699279,
+          37019584,
+          21907317,
+          35525255,
+          15533851,
+          39651989,
+          27919588,
+          29024353,
+          39993531,
+          41260756,
+          31708997,
+          24097064,
+          27647169,
+          25162257,
+          14726171,
+          38304225,
+          33310644,
+          16186261,
+          37427418,
+          30461693,
+          12151145,
+          23821090,
+          36871573,
+          25935633,
+          33332150,
+          32132005,
+          30877038,
+          33731202,
+          36342696,
+          41637062,
+          28130788,
+          40163044,
+          38933819,
+          39218030,
+          38852029,
+          16157765,
+          38655456,
+          34077499,
+          29897866,
+          33333204,
+          34215025,
+          36191315,
+          37603600,
+          31385061,
+          19781414,
+          31706619,
+          36691956,
+          19390338,
+          25935570,
+          33502122,
+          8413456,
+          34554658,
+          37363821,
+          29305402,
+          34762106,
+          32621944,
+          38324483,
+          30635226,
+          32870301,
+          31201113,
+          29703800,
+          34619106,
+          32166504,
+          24231879,
+          37704309,
+          27653447,
+          37128940,
+          38489517,
+          32238384,
+          35658024,
+          33035599,
+          40055520,
+          36657986,
+          36096863,
+          32991845,
+          29454871,
+          38346104,
+          27729222,
+          41358900,
+          31690988,
+          34587753,
+          34009231,
+          38365495,
+          38991584,
+          35157054,
+          29793848,
+          40811516,
+          41824590,
+          33582063,
+          39298625,
+          40875802,
+          38508632,
+          25560115,
+          36877177,
+          36378202,
+          35000404,
+          30415602,
+          38293950,
+          38909919,
+          35972218,
+          15364185,
+          39651971,
+          26132939,
+          38877565,
+          41003461,
+          33319233,
+          29929608,
+          35442393,
+          33176463,
+          28474361,
+          32553765,
+          31548335,
+          38639547,
+          34427594,
+          34431359,
+          33813836,
+          37807920,
+          40815242,
+          35137296,
+          38588927,
+          36041474,
+          23589584,
+          33150480,
+          23810874,
+          36193750,
+          36335326,
+          31009939,
+          31034907,
+          15947531,
+          40560603,
+          35243488,
+          24521530,
+          38735756,
+          38407177,
+          35795942,
+          36301135,
+          39309607,
+          26608256,
+          39490700,
+          29935541,
+          28688725,
+          33832604,
+          35731535,
+          39534963,
+          21593294,
+          39555826,
+          37286252,
+          35272093,
+          26173366,
+          25590212,
+          39136302,
+          34449189,
+          33441402,
+          36635079,
+          32556939,
+          38955574,
+          26507303,
+          34458905,
+          39608381,
+          42220241,
+          26663216,
+          33455563,
+          36574875,
+          23312855,
+          35900838,
+          23796131,
+          22215166,
+          25766536,
+          10724055,
+          12493255,
+          39222642,
+          41204924,
+          35443107,
+          37480922,
+          26707365,
+          26391135,
+          36857035,
+          20353958,
+          40375145,
+          27574404,
+          34610818,
+          39210781,
+          32353039,
+          38965119,
+          11565517
+        ],
+        "relative_citation_ratio": 7.722942045121199,
+        "title": "2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:42265997",
+    "source_type": "literature",
+    "text": "2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines\n\nJournal: Journal of the American College of Cardiology\nPublication date: 2026 Jun 9\nPublication types: Journal Article, Practice Guideline\nPMID: 42265997\nDOI: 10.1016/j.jacc.2026.03.056\n\nAbstract:\nAIM: The \"2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome\" retires, replaces, and expands upon the \"2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults.\" The primary intended audience for this guideline is clinicians who care for patients across the spectrum of cardiovascular-kidney-metabolic syndrome, an interrelated condition characterized by the interconnections among metabolic risk factors (including obesity and type 2 diabetes), chronic kidney disease, and cardiovascular disease.\nMETHODS: A comprehensive literature search was conducted from October 29, 2024, to April 14, 2025, to identify clinical studies, systematic reviews and meta-analyses, and other evidence conducted on human subjects that were published since 2015 in English from MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline.\nSTRUCTURE: The focus of this clinical practice guideline is to create a living, working document that provides current knowledge in the field of cardiovascular-kidney-metabolic syndrome aimed at all practicing cardiologists, endocrinologists, nephrologists, and primary care and specialty clinicians who manage these patients.",
+    "text_sha": "b38c5d2020562628",
+    "title": "2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42265997/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "AIM: The \"2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome\" retires, replaces, and expands upon the \"2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults.\" The primary intended audience for this guideline is clinicians who care for patients across the spectrum of cardiovascular-kidney-metabolic syndrome, an interrelated condition characterized by the interconnections among metabolic risk factors (including obesity and type 2 diabetes), chronic kidney disease, and cardiovascular disease.\nMETHODS: A comprehensive literature search was conducted from October 29, 2024, to April 14, 2025, to identify clinical studies, systematic reviews and meta-analyses, and other evidence conducted on human subjects that were published since 2015 in English from MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline.\nSTRUCTURE: The focus of this clinical practice guideline is to create a living, working document that provides current knowledge in the field of cardiovascular-kidney-metabolic syndrome aimed at all practicing cardiologists, endocrinologists, nephrologists, and primary care and specialty clinicians who manage these patients.",
+      "citation_count": 8,
+      "clinical_citation_count": 1,
+      "copublication_of": null,
+      "doi": "10.1161/CIR.0000000000001453",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Circulation",
+      "journal_abbrev": "Circulation",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "42263157",
+      "pub_date": "2026 Jul 28",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "rcr": 4.5313764213958185,
+      "year": 2026
+    },
+    "native_id": "42263157",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "42263157"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1161/CIR.0000000000001453"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "CollectiveName",
+            "clusterid": "",
+            "name": "Writing Committee Members"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ndumele CE"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rodriguez F"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Dixon DL"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Khan SS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mukherjee D"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bajaj M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bangalore S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bozkurt B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Breathett K"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Clarke SL"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "de Boer IH"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ellison DH"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Evangelista LS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Heffron SP"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kazi DS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kulshreshtha A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lingvay I"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Low Wang CC"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mercado CA"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Morton JM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Neeland IJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Pagidipati N"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Powell-Wiley TM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rangaswami J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rao G"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Reza N"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Saeed A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "St Peter W"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Starks JB"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sterling M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Talbot AW"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Tran AH"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Tuttle KR"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "VanWagner LB"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Vest AR"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Virani SS"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1161/CIR.0000000000001453",
+        "epubdate": "2026 Jun 9",
+        "essn": "1524-4539",
+        "fulljournalname": "Circulation",
+        "history": [
+          {
+            "date": "2026/07/27 18:35",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/06/09 18:45",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/06/09 14:03",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "0009-7322",
+        "issue": "4",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Virani SS",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "0147763",
+        "pages": "e50-e158",
+        "pmcrefcount": "",
+        "pubdate": "2026 Jul 28",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Ndumele CE",
+        "sortpubdate": "2026/07/28 00:00",
+        "sorttitle": "2026 aha acc ada asn guideline for the prevention detection evaluation and management of cardiovascular kidney metabolic syndrome a report of the american college of cardiology american heart association joint committee on clinical practice guidelines",
+        "source": "Circulation",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+        "uid": "42263157",
+        "vernaculartitle": "",
+        "volume": "154"
+      },
+      "icite": {
+        "_id": "42263157",
+        "animal": 0.0,
+        "apt": 0.75,
+        "authors": [
+          {
+            "fullName": "Writing Committee Members"
+          },
+          {
+            "firstName": "Chiadi E",
+            "fullName": "Ndumele, Chiadi E",
+            "lastName": "Ndumele"
+          },
+          {
+            "firstName": "Fatima",
+            "fullName": "Rodriguez, Fatima",
+            "lastName": "Rodriguez"
+          },
+          {
+            "firstName": "Dave L",
+            "fullName": "Dixon, Dave L",
+            "lastName": "Dixon"
+          },
+          {
+            "firstName": "Sadiya S",
+            "fullName": "Khan, Sadiya S",
+            "lastName": "Khan"
+          },
+          {
+            "firstName": "Debabrata",
+            "fullName": "Mukherjee, Debabrata",
+            "lastName": "Mukherjee"
+          },
+          {
+            "firstName": "Mandeep",
+            "fullName": "Bajaj, Mandeep",
+            "lastName": "Bajaj"
+          },
+          {
+            "firstName": "Sripal",
+            "fullName": "Bangalore, Sripal",
+            "lastName": "Bangalore"
+          },
+          {
+            "firstName": "Biykem",
+            "fullName": "Bozkurt, Biykem",
+            "lastName": "Bozkurt"
+          },
+          {
+            "firstName": "Khadijah",
+            "fullName": "Breathett, Khadijah",
+            "lastName": "Breathett"
+          },
+          {
+            "firstName": "Shoa L",
+            "fullName": "Clarke, Shoa L",
+            "lastName": "Clarke"
+          },
+          {
+            "firstName": "Ian H",
+            "fullName": "De Boer, Ian H",
+            "lastName": "De Boer"
+          },
+          {
+            "firstName": "David H",
+            "fullName": "Ellison, David H",
+            "lastName": "Ellison"
+          },
+          {
+            "firstName": "Lorraine S",
+            "fullName": "Evangelista, Lorraine S",
+            "lastName": "Evangelista"
+          },
+          {
+            "firstName": "Sean P",
+            "fullName": "Heffron, Sean P",
+            "lastName": "Heffron"
+          },
+          {
+            "firstName": "Dhruv S",
+            "fullName": "Kazi, Dhruv S",
+            "lastName": "Kazi"
+          },
+          {
+            "firstName": "Ambar",
+            "fullName": "Kulshreshtha, Ambar",
+            "lastName": "Kulshreshtha"
+          },
+          {
+            "firstName": "Ildiko",
+            "fullName": "Lingvay, Ildiko",
+            "lastName": "Lingvay"
+          },
+          {
+            "firstName": "Cecilia C",
+            "fullName": "Low Wang, Cecilia C",
+            "lastName": "Low Wang"
+          },
+          {
+            "firstName": "Claudia A",
+            "fullName": "Mercado, Claudia A",
+            "lastName": "Mercado"
+          },
+          {
+            "firstName": "John Magaña",
+            "fullName": "Morton, John Magaña",
+            "lastName": "Morton"
+          },
+          {
+            "firstName": "Ian J",
+            "fullName": "Neeland, Ian J",
+            "lastName": "Neeland"
+          },
+          {
+            "firstName": "Neha",
+            "fullName": "Pagidipati, Neha",
+            "lastName": "Pagidipati"
+          },
+          {
+            "firstName": "Tiffany M",
+            "fullName": "Powell-Wiley, Tiffany M",
+            "lastName": "Powell-Wiley"
+          },
+          {
+            "firstName": "Janani",
+            "fullName": "Rangaswami, Janani",
+            "lastName": "Rangaswami"
+          },
+          {
+            "firstName": "Goutham",
+            "fullName": "Rao, Goutham",
+            "lastName": "Rao"
+          },
+          {
+            "firstName": "Nosheen",
+            "fullName": "Reza, Nosheen",
+            "lastName": "Reza"
+          },
+          {
+            "firstName": "Anum",
+            "fullName": "Saeed, Anum",
+            "lastName": "Saeed"
+          },
+          {
+            "firstName": "Wendy",
+            "fullName": "S T Peter, Wendy",
+            "lastName": "S T Peter"
+          },
+          {
+            "firstName": "J Bradley",
+            "fullName": "Starks, J Bradley",
+            "lastName": "Starks"
+          },
+          {
+            "firstName": "Madeline",
+            "fullName": "Sterling, Madeline",
+            "lastName": "Sterling"
+          },
+          {
+            "firstName": "Amy W",
+            "fullName": "Talbot, Amy W",
+            "lastName": "Talbot"
+          },
+          {
+            "firstName": "Andrew H",
+            "fullName": "Tran, Andrew H",
+            "lastName": "Tran"
+          },
+          {
+            "firstName": "Katherine R",
+            "fullName": "Tuttle, Katherine R",
+            "lastName": "Tuttle"
+          },
+          {
+            "firstName": "Lisa B",
+            "fullName": "VanWagner, Lisa B",
+            "lastName": "VanWagner"
+          },
+          {
+            "firstName": "Amanda R",
+            "fullName": "Vest, Amanda R",
+            "lastName": "Vest"
+          },
+          {
+            "firstName": "Salim S",
+            "fullName": "Virani, Salim S",
+            "lastName": "Virani"
+          }
+        ],
+        "citation_count": 8,
+        "citations_per_year": 8.0,
+        "citedByClinicalArticle": true,
+        "citedByPmidsByYear": [
+          {
+            "42541628": 2026
+          },
+          {
+            "42608342": 2026
+          },
+          {
+            "42263147": 2026
+          },
+          {
+            "42284104": 2026
+          },
+          {
+            "42575984": 2026
+          },
+          {
+            "42384449": 2026
+          },
+          {
+            "42371722": 2026
+          },
+          {
+            "42494872": 2026
+          }
+        ],
+        "cited_by": [
+          42541628,
+          42608342,
+          42263147,
+          42284104,
+          42575984,
+          42384449,
+          42371722,
+          42494872
+        ],
+        "cited_by_clin": [
+          42284104
+        ],
+        "doi": "10.1161/CIR.0000000000001453",
+        "expected_citations_per_year": 1.7654679850092274,
+        "field_citation_rate": 12.53182100336908,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "Circulation",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 42263157,
+        "provisional": true,
+        "references": [
+          33358959,
+          23808982,
+          34998993,
+          2057034,
+          40997146,
+          38914124,
+          32012316,
+          39216091,
+          41824552,
+          38669015,
+          38950402,
+          38869007,
+          33112399,
+          38846711,
+          35470214,
+          34922873,
+          36507632,
+          40165126,
+          27942709,
+          35226558,
+          33882682,
+          19147051,
+          34922872,
+          32877581,
+          30343393,
+          18591398,
+          29558462,
+          38411644,
+          27531506,
+          30843102,
+          29859908,
+          25660356,
+          35418240,
+          26746456,
+          34570916,
+          30293134,
+          36651168,
+          38015216,
+          37728949,
+          38999350,
+          40997152,
+          30326501,
+          38439085,
+          40737004,
+          25750589,
+          28110911,
+          34148375,
+          21996391,
+          34543068,
+          38375882,
+          26240271,
+          34037681,
+          27813300,
+          35451488,
+          23408728,
+          28743190,
+          37845825,
+          23397514,
+          32333946,
+          38587233,
+          28106956,
+          27717130,
+          35020750,
+          38851997,
+          36006608,
+          27045641,
+          39284695,
+          20123666,
+          37787795,
+          39412509,
+          29655829,
+          30291013,
+          36326117,
+          10335688,
+          37685671,
+          34256144,
+          21896934,
+          11122588,
+          33599985,
+          16461820,
+          24352617,
+          39507886,
+          36763159,
+          38856224,
+          9683204,
+          37940161,
+          41211925,
+          32864246,
+          39034835,
+          29683911,
+          28827377,
+          39870816,
+          27535349,
+          41712677,
+          35103609,
+          1986996,
+          34119468,
+          38743805,
+          39902461,
+          22085317,
+          28228456,
+          33231670,
+          28605608,
+          39667523,
+          39566872,
+          37610754,
+          36027570,
+          28099824,
+          24474651,
+          39551169,
+          40997143,
+          39322534,
+          33031522,
+          33709339,
+          18206734,
+          29335400,
+          35115099,
+          30002098,
+          37289905,
+          31986081,
+          27377576,
+          37861548,
+          39093256,
+          31639756,
+          38445559,
+          35023547,
+          40354448,
+          29748185,
+          37562748,
+          30326126,
+          35603599,
+          38521116,
+          38710952,
+          38159162,
+          17283263,
+          35239204,
+          28283309,
+          38904644,
+          34399433,
+          15649727,
+          36027560,
+          30018227,
+          37952180,
+          39116212,
+          24370845,
+          32278678,
+          39342059,
+          36351458,
+          35369707,
+          32470456,
+          29487077,
+          26487769,
+          39651975,
+          39217553,
+          29204536,
+          37253796,
+          30122305,
+          38991583,
+          37682131,
+          29037238,
+          39483514,
+          38490803,
+          38466244,
+          30326125,
+          25212233,
+          25572516,
+          21148304,
+          30586767,
+          19695853,
+          25810229,
+          30896648,
+          38987454,
+          35470055,
+          22607822,
+          31279902,
+          31535829,
+          11136953,
+          41123898,
+          37811017,
+          31931608,
+          35363499,
+          37741858,
+          35583146,
+          36281763,
+          38570632,
+          18826999,
+          32476254,
+          32773223,
+          36927680,
+          36121656,
+          35904203,
+          32670197,
+          24515422,
+          39159624,
+          36960908,
+          38016699,
+          33185364,
+          29688297,
+          28859943,
+          38831564,
+          10938048,
+          36727674,
+          39651976,
+          35393067,
+          15492298,
+          30586774,
+          33165941,
+          31185157,
+          26612139,
+          39292486,
+          27483064,
+          40235437,
+          30694319,
+          33181154,
+          30586766,
+          30879355,
+          29850922,
+          17675643,
+          38850440,
+          12556541,
+          36370007,
+          20673995,
+          32763241,
+          21601327,
+          37188442,
+          25369829,
+          38035566,
+          34449181,
+          38073563,
+          27518283,
+          21521449,
+          40465279,
+          20946676,
+          23623998,
+          34001645,
+          32425454,
+          35881115,
+          35879524,
+          39697043,
+          39027934,
+          37344038,
+          17848652,
+          21216446,
+          32020062,
+          24552851,
+          37028749,
+          39377137,
+          32972526,
+          31365087,
+          32683103,
+          33556935,
+          38325988,
+          40512113,
+          38785209,
+          32843054,
+          31020900,
+          30894318,
+          23508758,
+          21788592,
+          37532422,
+          38848064,
+          36870047,
+          38700053,
+          26848062,
+          37952131,
+          31672135,
+          17766528,
+          21906798,
+          34805309,
+          37498594,
+          21450617,
+          38610024,
+          38248365,
+          39651981,
+          34964868,
+          37579311,
+          21502576,
+          30403772,
+          33890242,
+          31862757,
+          38614444,
+          25573506,
+          36892090,
+          32563261,
+          22276822,
+          40156843,
+          25706240,
+          33139407,
+          34380703,
+          32966714,
+          33422434,
+          37171231,
+          32362133,
+          26654259,
+          25257365,
+          25369489,
+          35354153,
+          15734833,
+          39818667,
+          26420442,
+          39651986,
+          27595918,
+          30424892,
+          34964873,
+          39478779,
+          37471273,
+          21352080,
+          30383139,
+          40305708,
+          36377603,
+          36758710,
+          35468325,
+          36622115,
+          26947216,
+          31189511,
+          39240930,
+          32739172,
+          35441470,
+          25752449,
+          36724989,
+          38436787,
+          35929542,
+          19786682,
+          25126981,
+          38727771,
+          16368297,
+          36314122,
+          20831624,
+          34170647,
+          25425451,
+          34636161,
+          38218589,
+          36246516,
+          33278832,
+          20378078,
+          20424251,
+          39651970,
+          38718139,
+          39127954,
+          38619824,
+          30213332,
+          29694293,
+          38744428,
+          33557578,
+          33755728,
+          35484505,
+          26997583,
+          30061070,
+          33999544,
+          38212255,
+          26868137,
+          28710205,
+          30672083,
+          30421335,
+          25665582,
+          36757644,
+          38711748,
+          32111376,
+          33214158,
+          28823585,
+          27299675,
+          28329057,
+          38907684,
+          34672967,
+          34024117,
+          28062142,
+          36378203,
+          36781624,
+          32326806,
+          28844192,
+          33769850,
+          31005541,
+          30423393,
+          36765019,
+          39475817,
+          40160565,
+          25176015,
+          30415628,
+          29673873,
+          32333236,
+          38766861,
+          11187414,
+          37049454,
+          31422062,
+          27580477,
+          21709559,
+          17339187,
+          28911506,
+          29133606,
+          37971889,
+          37154053,
+          38583146,
+          32187500,
+          19805651,
+          37385278,
+          15149345,
+          39226189,
+          28544202,
+          31135733,
+          33419719,
+          39841962,
+          34013739,
+          37294089,
+          37895151,
+          11295963,
+          40539956,
+          40137838,
+          37905515,
+          20843978,
+          33930434,
+          30326502,
+          37648583,
+          32027911,
+          34705020,
+          32022875,
+          27206478,
+          37460681,
+          37527735,
+          28199805,
+          31872338,
+          9014971,
+          36272764,
+          33073581,
+          23117780,
+          38912654,
+          33236481,
+          35766033,
+          27397659,
+          28490337,
+          31814505,
+          25953369,
+          37331413,
+          38664450,
+          37380016,
+          20664019,
+          36321278,
+          37622666,
+          38739396,
+          36331190,
+          27571284,
+          27881560,
+          38934111,
+          37419006,
+          27058907,
+          28828487,
+          29977645,
+          36082522,
+          36216945,
+          35394821,
+          40185112,
+          33931956,
+          33316282,
+          18256393,
+          21115765,
+          32877652,
+          32635174,
+          32687819,
+          20797567,
+          31642870,
+          38033089,
+          26551006,
+          20952583,
+          30003901,
+          30339231,
+          39798186,
+          26823554,
+          37947085,
+          33867441,
+          34144086,
+          35363951,
+          11565518,
+          35569886,
+          25125077,
+          33624440,
+          18664543,
+          21718910,
+          37164523,
+          35689669,
+          37622681,
+          33264825,
+          37921763,
+          34425083,
+          29762737,
+          31322693,
+          29941240,
+          22987062,
+          31102402,
+          35104325,
+          29202209,
+          31167558,
+          34313742,
+          26914592,
+          11333990,
+          40085108,
+          23125955,
+          27709794,
+          18212316,
+          23229914,
+          31753278,
+          24307184,
+          40169145,
+          18054942,
+          27091899,
+          28162150,
+          36471550,
+          28209765,
+          38717747,
+          39305981,
+          35788061,
+          27295427,
+          37952217,
+          39243861,
+          34882435,
+          36280539,
+          35379503,
+          25595383,
+          11832527,
+          8222122,
+          36367466,
+          38701400,
+          21481449,
+          25145930,
+          36336720,
+          20838985,
+          40353578,
+          33107592,
+          35766027,
+          33043620,
+          39834714,
+          32052997,
+          31668450,
+          30409567,
+          30622090,
+          33560320,
+          34272327,
+          32129809,
+          19175496,
+          30882238,
+          34752913,
+          29849003,
+          34358471,
+          35015037,
+          39556396,
+          16443789,
+          37950893,
+          21392646,
+          30786725,
+          36934740,
+          35100355,
+          40183678,
+          31900793,
+          38663919,
+          30415601,
+          38430320,
+          37807924,
+          39225278,
+          33951361,
+          39037780,
+          35239404,
+          24297797,
+          36576812,
+          33269599,
+          19654593,
+          40470996,
+          28522450,
+          36780391,
+          22257685,
+          36669322,
+          39792537,
+          38923272,
+          27438330,
+          29483060,
+          34427599,
+          31753277,
+          38739118,
+          38413012,
+          29117273,
+          33567185,
+          31260026,
+          30104301,
+          36129997,
+          38048671,
+          23736733,
+          32598218,
+          33119080,
+          35472672,
+          38679221,
+          26945047,
+          34919135,
+          31707797,
+          39316661,
+          32970396,
+          37471501,
+          34580995,
+          40392993,
+          32667128,
+          38113046,
+          30201636,
+          33754795,
+          29151714,
+          27039128,
+          42263147,
+          19036065,
+          27790809,
+          39181597,
+          30704553,
+          19628117,
+          35422238,
+          34255049,
+          30990260,
+          34713711,
+          38734634,
+          39570234,
+          36380111,
+          30616027,
+          33779213,
+          32048787,
+          38223296,
+          34081137,
+          20876206,
+          38583093,
+          32865377,
+          10418856,
+          20559296,
+          26378978,
+          41045906,
+          33103469,
+          26093765,
+          37947094,
+          27571048,
+          25865049,
+          27440518,
+          33899338,
+          15699279,
+          37019584,
+          21907317,
+          35525255,
+          15533851,
+          39651989,
+          29024353,
+          39993531,
+          31708997,
+          24097064,
+          27647169,
+          25162257,
+          14726171,
+          38304225,
+          33310644,
+          16186261,
+          37427418,
+          30461693,
+          12151145,
+          23821090,
+          36871573,
+          25935633,
+          33332150,
+          32132005,
+          30877038,
+          33731202,
+          36342696,
+          41637062,
+          28130788,
+          40163044,
+          38933819,
+          39218030,
+          38852029,
+          16157765,
+          38655456,
+          34077499,
+          29897866,
+          33333204,
+          36191315,
+          34215025,
+          37603600,
+          31385061,
+          19781414,
+          31706619,
+          36691956,
+          19390338,
+          25935570,
+          33502122,
+          8413456,
+          34554658,
+          37363821,
+          29305402,
+          34762106,
+          32621944,
+          38324483,
+          30635226,
+          32870301,
+          31201113,
+          29703800,
+          34619106,
+          32166504,
+          24231879,
+          37704309,
+          27653447,
+          37128940,
+          38489517,
+          32238384,
+          35658024,
+          33035599,
+          40055520,
+          36657986,
+          36096863,
+          32991845,
+          29454871,
+          38346104,
+          27729222,
+          41358900,
+          31690988,
+          34587753,
+          34009231,
+          38365495,
+          38991584,
+          35157054,
+          29793848,
+          40811516,
+          33582063,
+          40875802,
+          38508632,
+          25560115,
+          36877177,
+          36378202,
+          35000404,
+          30415602,
+          38293950,
+          38909919,
+          35972218,
+          15364185,
+          39651971,
+          26132939,
+          38877565,
+          33319233,
+          29929608,
+          35442393,
+          33176463,
+          28474361,
+          32553765,
+          31548335,
+          38639547,
+          34427594,
+          34431359,
+          33813836,
+          37807920,
+          40815242,
+          35137296,
+          38588927,
+          36041474,
+          23589584,
+          33150480,
+          23810874,
+          36193750,
+          36335326,
+          31009939,
+          31034907,
+          15947531,
+          40560603,
+          35243488,
+          24521530,
+          38735756,
+          38407177,
+          35795942,
+          36301135,
+          39309607,
+          26608256,
+          39490700,
+          29935541,
+          28688725,
+          33832604,
+          35731535,
+          39534963,
+          21593294,
+          39555826,
+          37286252,
+          35272093,
+          26173366,
+          25590212,
+          39136302,
+          34449189,
+          33441402,
+          36635079,
+          32556939,
+          38955574,
+          26507303,
+          34458905,
+          39608381,
+          42220241,
+          26663216,
+          33455563,
+          36574875,
+          23312855,
+          35900838,
+          23796131,
+          22215166,
+          25766536,
+          10724055,
+          12493255,
+          39222642,
+          41204924,
+          35443107,
+          37480922,
+          26707365,
+          26391135,
+          36857035,
+          20353958,
+          40375145,
+          27574404,
+          34610818,
+          39210781,
+          32353039,
+          38965119,
+          11565517
+        ],
+        "relative_citation_ratio": 4.5313764213958185,
+        "title": "2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:42263157",
+    "source_type": "literature",
+    "text": "2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines\n\nJournal: Circulation\nPublication date: 2026 Jul 28\nPublication types: Journal Article, Practice Guideline, Review\nPMID: 42263157\nDOI: 10.1161/CIR.0000000000001453\n\nAbstract:\nAIM: The \"2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome\" retires, replaces, and expands upon the \"2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults.\" The primary intended audience for this guideline is clinicians who care for patients across the spectrum of cardiovascular-kidney-metabolic syndrome, an interrelated condition characterized by the interconnections among metabolic risk factors (including obesity and type 2 diabetes), chronic kidney disease, and cardiovascular disease.\nMETHODS: A comprehensive literature search was conducted from October 29, 2024, to April 14, 2025, to identify clinical studies, systematic reviews and meta-analyses, and other evidence conducted on human subjects that were published since 2015 in English from MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline.\nSTRUCTURE: The focus of this clinical practice guideline is to create a living, working document that provides current knowledge in the field of cardiovascular-kidney-metabolic syndrome aimed at all practicing cardiologists, endocrinologists, nephrologists, and primary care and specialty clinicians who manage these patients.",
+    "text_sha": "b0e84278e9470231",
+    "title": "2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263157/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "Acute heart failure in children is a complex clinical syndrome associated with significant morbidity and mortality, often requiring intensive care management and consideration of advanced therapies. The heterogeneity in presentation and limited pediatric-specific data have historically led to wide variations in care. The Canadian Cardiovascular Society/Canadian Pediatric Cardiology Association focused guidelines on acute heart failure in children provides updated, evidence-informed recommendations to guide clinicians in diagnostic evaluation and therapeutic interventions. This focused guideline addresses 10 prioritized clinical questions and offers recommendations on the following topics: (1) use of cardiac magnetic resonance imaging; (2) prognostic use of brain natriuretic peptides, and (3) genetic testing; (4) strategies for diuretic initiation and (5) guideline-directed medical therapy; (6) choice of inotropic and vasoactive agents for acute support; (7) monitoring strategies including the role of pulmonary artery catheters; (8) timing for initiating durable ventricular assist device support; (9) the use of temporary mechanical circulatory support; and (10) indications and timing for left atrial decompression in children supported with extracorporeal membrane oxygenation. These recommendations are on the basis of systematic evidence reviews, the evidence to decision framework, and expert consensus, with detailed methodology and supporting evidence provided in Supplementary material S1-S11.",
+      "citation_count": 0,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.1016/j.cjca.2025.12.035",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "The Canadian journal of cardiology",
+      "journal_abbrev": "Can J Cardiol",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "41951283",
+      "pub_date": "2026 Apr",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "rcr": null,
+      "year": 2026
+    },
+    "native_id": "41951283",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "41951283"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1016/j.cjca.2025.12.035"
+          },
+          {
+            "idtype": "pii",
+            "idtypen": 4,
+            "value": "S0828-282X(25)01603-4"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "CollectiveName",
+            "clusterid": "",
+            "name": "Primary Panel:"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Jeewa A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Florez ID"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cuello-Garcia C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Alami N"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Altamirano-Diaz L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Armstrong K"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ashkanase J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cunningham C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Dhillon S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Dipchand A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Fazari L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Grosse-Wortmann L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Holinski P"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Khoury M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lin KY"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rossano J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Urschel S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Zahavich L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kantor PF"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Conway J"
+          },
+          {
+            "authtype": "CollectiveName",
+            "clusterid": "",
+            "name": "Review Panel:"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Atallah J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bucholz H"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Chant-Gambacourt C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Dallaire F"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Dancea A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Fournier A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "George K"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Greenway S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Human DG"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lougheed J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mejilla A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Price JF"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Roche SL"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ryerson L"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1016/j.cjca.2025.12.035",
+        "epubdate": "",
+        "essn": "1916-7075",
+        "fulljournalname": "The Canadian journal of cardiology",
+        "history": [
+          {
+            "date": "2025/10/14 00:00",
+            "pubstatus": "received"
+          },
+          {
+            "date": "2025/12/15 00:00",
+            "pubstatus": "revised"
+          },
+          {
+            "date": "2025/12/19 00:00",
+            "pubstatus": "accepted"
+          },
+          {
+            "date": "2026/04/09 00:34",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/04/09 00:33",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/04/08 20:56",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "0828-282X",
+        "issue": "4",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Ryerson L",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "8510280",
+        "pages": "626-646",
+        "pmcrefcount": "",
+        "pubdate": "2026 Apr",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "4",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline",
+          "Systematic Review"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Jeewa A",
+        "sortpubdate": "2026/04/01 00:00",
+        "sorttitle": "canadian cardiovascular society canadian pediatric cardiology association focused guidelines on acute heart failure in children",
+        "source": "Can J Cardiol",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "Canadian Cardiovascular Society/Canadian Pediatric Cardiology Association Focused Guidelines on Acute Heart Failure in Children.",
+        "uid": "41951283",
+        "vernaculartitle": "",
+        "volume": "42"
+      },
+      "icite": {
+        "_id": "41951283",
+        "animal": 0.0,
+        "apt": 0.05,
+        "authors": [
+          {
+            "fullName": "Primary Panel:"
+          },
+          {
+            "firstName": "Aamir",
+            "fullName": "Jeewa, Aamir",
+            "lastName": "Jeewa"
+          },
+          {
+            "firstName": "Ivan D",
+            "fullName": "Florez, Ivan D",
+            "lastName": "Florez"
+          },
+          {
+            "firstName": "Carlos",
+            "fullName": "Cuello-Garcia, Carlos",
+            "lastName": "Cuello-Garcia"
+          },
+          {
+            "firstName": "Nassiba",
+            "fullName": "Alami, Nassiba",
+            "lastName": "Alami"
+          },
+          {
+            "firstName": "Luis",
+            "fullName": "Altamirano-Diaz, Luis",
+            "lastName": "Altamirano-Diaz"
+          },
+          {
+            "firstName": "Kathryn",
+            "fullName": "Armstrong, Kathryn",
+            "lastName": "Armstrong"
+          },
+          {
+            "firstName": "Jenna",
+            "fullName": "Ashkanase, Jenna",
+            "lastName": "Ashkanase"
+          },
+          {
+            "firstName": "Chentel",
+            "fullName": "Cunningham, Chentel",
+            "lastName": "Cunningham"
+          },
+          {
+            "firstName": "Santokh",
+            "fullName": "Dhillon, Santokh",
+            "lastName": "Dhillon"
+          },
+          {
+            "firstName": "Anne",
+            "fullName": "Dipchand, Anne",
+            "lastName": "Dipchand"
+          },
+          {
+            "firstName": "Linda",
+            "fullName": "Fazari, Linda",
+            "lastName": "Fazari"
+          },
+          {
+            "firstName": "Lars",
+            "fullName": "Grosse-Wortmann, Lars",
+            "lastName": "Grosse-Wortmann"
+          },
+          {
+            "firstName": "Paula",
+            "fullName": "Holinski, Paula",
+            "lastName": "Holinski"
+          },
+          {
+            "firstName": "Michael",
+            "fullName": "Khoury, Michael",
+            "lastName": "Khoury"
+          },
+          {
+            "firstName": "Kimberly Y",
+            "fullName": "Lin, Kimberly Y",
+            "lastName": "Lin"
+          },
+          {
+            "firstName": "Joseph",
+            "fullName": "Rossano, Joseph",
+            "lastName": "Rossano"
+          },
+          {
+            "firstName": "Simon",
+            "fullName": "Urschel, Simon",
+            "lastName": "Urschel"
+          },
+          {
+            "firstName": "Laura",
+            "fullName": "Zahavich, Laura",
+            "lastName": "Zahavich"
+          },
+          {
+            "firstName": "Paul F",
+            "fullName": "Kantor, Paul F",
+            "lastName": "Kantor"
+          },
+          {
+            "firstName": "Jennifer",
+            "fullName": "Conway, Jennifer",
+            "lastName": "Conway"
+          },
+          {
+            "fullName": "Review Panel:"
+          },
+          {
+            "firstName": "Joseph",
+            "fullName": "Atallah, Joseph",
+            "lastName": "Atallah"
+          },
+          {
+            "firstName": "Holger",
+            "fullName": "Bucholz, Holger",
+            "lastName": "Bucholz"
+          },
+          {
+            "firstName": "Catherine",
+            "fullName": "Chant-Gambacourt, Catherine",
+            "lastName": "Chant-Gambacourt"
+          },
+          {
+            "firstName": "Frédéric",
+            "fullName": "Dallaire, Frédéric",
+            "lastName": "Dallaire"
+          },
+          {
+            "firstName": "Adrian",
+            "fullName": "Dancea, Adrian",
+            "lastName": "Dancea"
+          },
+          {
+            "firstName": "Anne",
+            "fullName": "Fournier, Anne",
+            "lastName": "Fournier"
+          },
+          {
+            "firstName": "Kristen",
+            "fullName": "George, Kristen",
+            "lastName": "George"
+          },
+          {
+            "firstName": "Steven",
+            "fullName": "Greenway, Steven",
+            "lastName": "Greenway"
+          },
+          {
+            "firstName": "Derek G",
+            "fullName": "Human, Derek G",
+            "lastName": "Human"
+          },
+          {
+            "firstName": "Jane",
+            "fullName": "Lougheed, Jane",
+            "lastName": "Lougheed"
+          },
+          {
+            "firstName": "Allison",
+            "fullName": "Mejilla, Allison",
+            "lastName": "Mejilla"
+          },
+          {
+            "firstName": "Jack F",
+            "fullName": "Price, Jack F",
+            "lastName": "Price"
+          },
+          {
+            "firstName": "S Lucy",
+            "fullName": "Roche, S Lucy",
+            "lastName": "Roche"
+          },
+          {
+            "firstName": "Lindsay",
+            "fullName": "Ryerson, Lindsay",
+            "lastName": "Ryerson"
+          }
+        ],
+        "citation_count": 0,
+        "citations_per_year": 0.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": null,
+        "cited_by": null,
+        "cited_by_clin": null,
+        "doi": "10.1016/j.cjca.2025.12.035",
+        "expected_citations_per_year": null,
+        "field_citation_rate": null,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "Can J Cardiol",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 41951283,
+        "provisional": false,
+        "references": [
+          32165048,
+          29517769,
+          21295174,
+          38636135,
+          29567486,
+          26645995,
+          30043916,
+          41412630,
+          29275844,
+          29454761,
+          40262844,
+          29032583,
+          35535596,
+          1944425,
+          25327220,
+          29598933,
+          31527676,
+          35798399,
+          24267800,
+          21561672,
+          8501556,
+          33046850,
+          27553044,
+          35940296,
+          36154167,
+          33827756,
+          37347242,
+          38123046,
+          29538053,
+          31713037,
+          33076747,
+          39319469,
+          36062636,
+          31624968,
+          40425239,
+          27692597,
+          34193359,
+          30543528,
+          35769032,
+          34253457,
+          34514850,
+          22633303,
+          28329112,
+          37752742,
+          16204662,
+          17229370,
+          24906491,
+          19481012,
+          7587268,
+          32856126,
+          25472966,
+          18086928,
+          37850383,
+          37666655,
+          16940194,
+          28641794,
+          17449413,
+          30545455,
+          34412507,
+          29073953,
+          39210278,
+          35550689,
+          39015662,
+          38909334,
+          36735452,
+          37169222,
+          33617811,
+          22143101,
+          39827929,
+          30600580,
+          37187230,
+          26957104,
+          27893062,
+          29168549,
+          37642192,
+          35363499,
+          36759938,
+          36196060,
+          37923198,
+          34229446,
+          18242279,
+          30639612,
+          34435226,
+          16520263,
+          33044586,
+          33181105,
+          33643721,
+          37245143,
+          23265328,
+          30985609,
+          31345716,
+          33493662,
+          39119990,
+          38063152,
+          25052418,
+          30184070,
+          33465365,
+          38296404,
+          35213887,
+          25704863,
+          26912304,
+          34022400,
+          38957045,
+          29367541,
+          31712860,
+          26675591,
+          24725766,
+          34656399,
+          34480832,
+          27365494,
+          38722325,
+          12600913,
+          23020884,
+          30732522,
+          25278985,
+          33121702,
+          20573993,
+          25319629,
+          12711739,
+          18436948,
+          12651048,
+          36356631,
+          25451708,
+          34132503,
+          30220265,
+          23747642
+        ],
+        "relative_citation_ratio": null,
+        "title": "Canadian Cardiovascular Society/Canadian Pediatric Cardiology Association Focused Guidelines on Acute Heart Failure in Children.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:41951283",
+    "source_type": "literature",
+    "text": "Canadian Cardiovascular Society/Canadian Pediatric Cardiology Association Focused Guidelines on Acute Heart Failure in Children\n\nJournal: The Canadian journal of cardiology\nPublication date: 2026 Apr\nPublication types: Journal Article, Practice Guideline, Systematic Review\nPMID: 41951283\nDOI: 10.1016/j.cjca.2025.12.035\n\nAbstract:\nAcute heart failure in children is a complex clinical syndrome associated with significant morbidity and mortality, often requiring intensive care management and consideration of advanced therapies. The heterogeneity in presentation and limited pediatric-specific data have historically led to wide variations in care. The Canadian Cardiovascular Society/Canadian Pediatric Cardiology Association focused guidelines on acute heart failure in children provides updated, evidence-informed recommendations to guide clinicians in diagnostic evaluation and therapeutic interventions. This focused guideline addresses 10 prioritized clinical questions and offers recommendations on the following topics: (1) use of cardiac magnetic resonance imaging; (2) prognostic use of brain natriuretic peptides, and (3) genetic testing; (4) strategies for diuretic initiation and (5) guideline-directed medical therapy; (6) choice of inotropic and vasoactive agents for acute support; (7) monitoring strategies including the role of pulmonary artery catheters; (8) timing for initiating durable ventricular assist device support; (9) the use of temporary mechanical circulatory support; and (10) indications and timing for left atrial decompression in children supported with extracorporeal membrane oxygenation. These recommendations are on the basis of systematic evidence reviews, the evidence to decision framework, and expert consensus, with detailed methodology and supporting evidence provided in Supplementary material S1-S11.",
+    "text_sha": "8896e6ddf52b3a29",
+    "title": "Canadian Cardiovascular Society/Canadian Pediatric Cardiology Association Focused Guidelines on Acute Heart Failure in Children",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41951283/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "Heart failure (HF) and chronic kidney disease (CKD) frequently coexist, which elevates the risks of hospitalization, disease progression, and death. Despite advances in treating each condition independently, many challenges remain in diagnosing and managing them in combination. In March 2024, Kidney Disease: Improving Global Outcomes (KDIGO) held the Controversies Conference on Kidney Disease and Heart Failure: Recent Advances and Current Challenges. Discussions highlighted the complex, bidirectional relationship between HF and CKD, including shared risk factors and overlapping pathophysiology as well as nuances in interpreting biomarkers such as natriuretic peptides and serum creatinine. Sodium-glucose cotransporter-2 inhibitors, renin-angiotensin-aldosterone system inhibitors, and emerging agents such as finerenone and glucagon-like peptide-1 receptor agonists can have benefits in both populations of patients with HF and CKD, though evidence in advanced CKD remains limited. Importantly, small declines in kidney function after initiating guideline-directed HF therapies generally do not require discontinuation, as these declines are often hemodynamic in nature and not associated with poor outcomes. The group highlighted the need for CKD-specific HF diagnostic thresholds and refined acute kidney injury definitions in HF. It is important for future cardiovascular and kidney trials to include relevant end points, such as kidney function trajectories, symptom burden, and quality of life. To improve care for individuals with HF and CKD, a more integrated approach to management, rooted in individualization, clinical context, and shared therapeutic goals, is needed.",
+      "citation_count": 5,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.1016/j.jchf.2026.102943",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "JACC. Heart failure",
+      "journal_abbrev": "JACC Heart Fail",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "41793402",
+      "pub_date": "2026 Apr",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "rcr": 3.39187733314188,
+      "year": 2026
+    },
+    "native_id": "41793402",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "41793402"
+          },
+          {
+            "idtype": "mid",
+            "idtypen": 8,
+            "value": "NIHMS2165095"
+          },
+          {
+            "idtype": "pmc",
+            "idtypen": 8,
+            "value": "PMC13092174"
+          },
+          {
+            "idtype": "pmcid",
+            "idtypen": 5,
+            "value": "pmc-id: PMC13092174;manuscript-id: NIHMS2165095;"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1016/j.jchf.2026.102943"
+          },
+          {
+            "idtype": "pii",
+            "idtypen": 4,
+            "value": "S2213-1779(26)00041-7"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lam CSP"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bozkurt B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cherney DZI"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ezekowitz JA"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Jardine MJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Khan SS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Madero M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sarnak MJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ter Maaten JM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cheung M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "King JM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Grams ME"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Jadoul M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bansal N"
+          },
+          {
+            "authtype": "CollectiveName",
+            "clusterid": "",
+            "name": "Conference Participants"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1016/j.jchf.2026.102943",
+        "epubdate": "2026 Mar 6",
+        "essn": "2213-1787",
+        "fulljournalname": "JACC. Heart failure",
+        "history": [
+          {
+            "date": "2025/06/19 00:00",
+            "pubstatus": "received"
+          },
+          {
+            "date": "2025/09/11 00:00",
+            "pubstatus": "revised"
+          },
+          {
+            "date": "2025/10/09 00:00",
+            "pubstatus": "accepted"
+          },
+          {
+            "date": "2026/04/09 00:33",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/03/07 16:15",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/03/07 10:27",
+            "pubstatus": "entrez"
+          },
+          {
+            "date": "2026/04/19 00:00",
+            "pubstatus": "pmc-release"
+          }
+        ],
+        "issn": "2213-1779",
+        "issue": "4",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Bansal N",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "101598241",
+        "pages": "102943",
+        "pmcrefcount": 132,
+        "pubdate": "2026 Apr",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Lam CSP",
+        "sortpubdate": "2026/04/01 00:00",
+        "sorttitle": "kidney disease and heart failure recent advances and current challenges conclusions from a kidney disease improving global outcomes kdigo controversies conference",
+        "source": "JACC Heart Fail",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "Kidney Disease and Heart Failure: Recent Advances and Current Challenges: Conclusions From a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference.",
+        "uid": "41793402",
+        "vernaculartitle": "",
+        "volume": "14"
+      },
+      "icite": {
+        "_id": "41793402",
+        "animal": 0.0,
+        "apt": 0.75,
+        "authors": [
+          {
+            "firstName": "Carolyn S P",
+            "fullName": "Lam, Carolyn S P",
+            "lastName": "Lam"
+          },
+          {
+            "firstName": "Biykem",
+            "fullName": "Bozkurt, Biykem",
+            "lastName": "Bozkurt"
+          },
+          {
+            "firstName": "David Z I",
+            "fullName": "Cherney, David Z I",
+            "lastName": "Cherney"
+          },
+          {
+            "firstName": "Justin A",
+            "fullName": "Ezekowitz, Justin A",
+            "lastName": "Ezekowitz"
+          },
+          {
+            "firstName": "Meg J",
+            "fullName": "Jardine, Meg J",
+            "lastName": "Jardine"
+          },
+          {
+            "firstName": "Sadiya S",
+            "fullName": "Khan, Sadiya S",
+            "lastName": "Khan"
+          },
+          {
+            "firstName": "Magdalena",
+            "fullName": "Madero, Magdalena",
+            "lastName": "Madero"
+          },
+          {
+            "firstName": "Mark J",
+            "fullName": "Sarnak, Mark J",
+            "lastName": "Sarnak"
+          },
+          {
+            "firstName": "Jozine M",
+            "fullName": "Ter Maaten, Jozine M",
+            "lastName": "Ter Maaten"
+          },
+          {
+            "firstName": "Michael",
+            "fullName": "Cheung, Michael",
+            "lastName": "Cheung"
+          },
+          {
+            "firstName": "Jennifer M",
+            "fullName": "King, Jennifer M",
+            "lastName": "King"
+          },
+          {
+            "firstName": "Morgan E",
+            "fullName": "Grams, Morgan E",
+            "lastName": "Grams"
+          },
+          {
+            "firstName": "Michel",
+            "fullName": "Jadoul, Michel",
+            "lastName": "Jadoul"
+          },
+          {
+            "firstName": "Nisha",
+            "fullName": "Bansal, Nisha",
+            "lastName": "Bansal"
+          },
+          {
+            "fullName": "Conference Participants"
+          }
+        ],
+        "citation_count": 5,
+        "citations_per_year": 5.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": [
+          {
+            "42364820": 2026
+          },
+          {
+            "42491299": 2026
+          },
+          {
+            "42247581": 2026
+          },
+          {
+            "42153640": 2026
+          },
+          {
+            "42329699": 2026
+          }
+        ],
+        "cited_by": [
+          42364820,
+          42491299,
+          42247581,
+          42153640,
+          42329699
+        ],
+        "cited_by_clin": null,
+        "doi": "10.1016/j.jchf.2026.102943",
+        "expected_citations_per_year": 1.4741099128630704,
+        "field_citation_rate": 8.559824458907356,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "JACC Heart Fail",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 41793402,
+        "provisional": true,
+        "references": [
+          36027559,
+          37119876,
+          29544928,
+          36254693,
+          36796671,
+          35442064,
+          26721915,
+          37807165,
+          36787124,
+          30338197,
+          35023547,
+          19850697,
+          23325460,
+          27638233,
+          32462462,
+          26861140,
+          35022210,
+          29322198,
+          38742428,
+          36373551,
+          27173031,
+          18452784,
+          38567506,
+          34447992,
+          33406882,
+          39614837,
+          34191394,
+          22505396,
+          21903907,
+          39225278,
+          20606118,
+          35226558,
+          32998816,
+          26693947,
+          36351458,
+          34120618,
+          23131078,
+          38319838,
+          24621973,
+          36700431,
+          26874386,
+          25650371,
+          40159390,
+          28217978,
+          26299229,
+          39217561,
+          35381194,
+          36129693,
+          35379504,
+          38785209,
+          38215917,
+          34353883,
+          38490803,
+          38466244,
+          38740173,
+          35239201,
+          35902165,
+          18577827,
+          30354446,
+          37947085,
+          31047019,
+          33662581,
+          31558270,
+          36653095,
+          36734033,
+          21666249,
+          36148485,
+          15302780,
+          37389661,
+          37763045,
+          37872654,
+          37622681,
+          21055713,
+          35721610,
+          34449189,
+          32535124,
+          31535829,
+          33264825,
+          18617068,
+          22681864,
+          24164864,
+          25722365,
+          38289525,
+          34293394,
+          21926073,
+          35363499,
+          29655829,
+          25441437,
+          16697315,
+          37137592,
+          37137593,
+          37364186,
+          37632463,
+          23288912,
+          21366472,
+          39608381,
+          32267771,
+          39365237,
+          28371075,
+          38939376,
+          19683640,
+          37330614,
+          29352071,
+          31146814,
+          35131929,
+          16461840,
+          20659949,
+          23470495,
+          36918388,
+          17586090,
+          31247182,
+          22167320,
+          33663906,
+          34786794,
+          38897678,
+          2896877,
+          38498611,
+          33070419,
+          36272764,
+          26041600,
+          32865377,
+          33720773,
+          35034172,
+          29410227,
+          32164892,
+          36423214,
+          31047016,
+          27573728,
+          37905361,
+          33031522,
+          37622666,
+          36346045
+        ],
+        "relative_citation_ratio": 3.39187733314188,
+        "title": "Kidney Disease and Heart Failure: Recent Advances and Current Challenges: Conclusions From a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:41793402",
+    "source_type": "literature",
+    "text": "Kidney Disease and Heart Failure: Recent Advances and Current Challenges: Conclusions From a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference\n\nJournal: JACC. Heart failure\nPublication date: 2026 Apr\nPublication types: Journal Article, Practice Guideline, Research Support, Non-U.S. Gov't\nPMID: 41793402\nDOI: 10.1016/j.jchf.2026.102943\n\nAbstract:\nHeart failure (HF) and chronic kidney disease (CKD) frequently coexist, which elevates the risks of hospitalization, disease progression, and death. Despite advances in treating each condition independently, many challenges remain in diagnosing and managing them in combination. In March 2024, Kidney Disease: Improving Global Outcomes (KDIGO) held the Controversies Conference on Kidney Disease and Heart Failure: Recent Advances and Current Challenges. Discussions highlighted the complex, bidirectional relationship between HF and CKD, including shared risk factors and overlapping pathophysiology as well as nuances in interpreting biomarkers such as natriuretic peptides and serum creatinine. Sodium-glucose cotransporter-2 inhibitors, renin-angiotensin-aldosterone system inhibitors, and emerging agents such as finerenone and glucagon-like peptide-1 receptor agonists can have benefits in both populations of patients with HF and CKD, though evidence in advanced CKD remains limited. Importantly, small declines in kidney function after initiating guideline-directed HF therapies generally do not require discontinuation, as these declines are often hemodynamic in nature and not associated with poor outcomes. The group highlighted the need for CKD-specific HF diagnostic thresholds and refined acute kidney injury definitions in HF. It is important for future cardiovascular and kidney trials to include relevant end points, such as kidney function trajectories, symptom burden, and quality of life. To improve care for individuals with HF and CKD, a more integrated approach to management, rooted in individualization, clinical context, and shared therapeutic goals, is needed.",
+    "text_sha": "9830f9b63aa1fa97",
+    "title": "Kidney Disease and Heart Failure: Recent Advances and Current Challenges: Conclusions From a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41793402/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "Heart failure (HF) and chronic kidney disease (CKD) frequently coexist, which elevates the risks of hospitalization, disease progression, and death. Despite advances in treating each condition independently, many challenges remain in diagnosing and managing them in combination. In March 2024, Kidney Disease: Improving Global Outcomes (KDIGO) held the Controversies Conference on Kidney Disease and Heart Failure: Recent Advances and Current Challenges. Discussions highlighted the complex, bidirectional relationship between HF and CKD, including shared risk factors and overlapping pathophysiology as well as nuances in interpreting biomarkers such as natriuretic peptides and serum creatinine. Sodium-glucose cotransporter-2 inhibitors, renin-angiotensin-aldosterone system inhibitors, and emerging agents such as finerenone and glucagon-like peptide-1 receptor agonists can have benefits in both populations of patients with HF and CKD, though evidence in advanced CKD remains limited. Importantly, small declines in kidney function after initiating guideline-directed HF therapies generally do not require discontinuation, as these declines are often hemodynamic in nature and not associated with poor outcomes. The group highlighted the need for CKD-specific HF diagnostic thresholds and refined acute kidney injury definitions in HF. It is important for future cardiovascular and kidney trials to include relevant end points, such as kidney function trajectories, symptom burden, and quality of life. To improve care for individuals with HF and CKD, a more integrated approach to management, rooted in individualization, clinical context, and shared therapeutic goals, is needed.",
+      "citation_count": 3,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.1016/j.kint.2025.10.011",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Kidney international",
+      "journal_abbrev": "Kidney Int",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "41791738",
+      "pub_date": "2026 Jun",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "rcr": null,
+      "year": 2026
+    },
+    "native_id": "41791738",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "41791738"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1016/j.kint.2025.10.011"
+          },
+          {
+            "idtype": "pii",
+            "idtypen": 4,
+            "value": "S0085-2538(25)00884-1"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lam CSP"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bozkurt B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cherney DZI"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ezekowitz JA"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Jardine MJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Khan SS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Madero M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sarnak MJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ter Maaten JM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cheung M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "King JM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Grams ME"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Jadoul M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bansal N"
+          },
+          {
+            "authtype": "CollectiveName",
+            "clusterid": "",
+            "name": "Conference Participants"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1016/j.kint.2025.10.011",
+        "epubdate": "2026 Mar 6",
+        "essn": "1523-1755",
+        "fulljournalname": "Kidney international",
+        "history": [
+          {
+            "date": "2025/06/19 00:00",
+            "pubstatus": "received"
+          },
+          {
+            "date": "2025/09/11 00:00",
+            "pubstatus": "revised"
+          },
+          {
+            "date": "2025/10/09 00:00",
+            "pubstatus": "accepted"
+          },
+          {
+            "date": "2026/05/22 00:33",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/03/07 01:38",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/03/06 19:48",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "0085-2538",
+        "issue": "6",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Bansal N",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "0323470",
+        "pages": "1095-1113",
+        "pmcrefcount": "",
+        "pubdate": "2026 Jun",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Lam CSP",
+        "sortpubdate": "2026/06/01 00:00",
+        "sorttitle": "kidney disease and heart failure recent advances and current challenges conclusions from a kidney disease improving global outcomes kdigo controversies conference",
+        "source": "Kidney Int",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "Kidney disease and heart failure: recent advances and current challenges: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference.",
+        "uid": "41791738",
+        "vernaculartitle": "",
+        "volume": "109"
+      },
+      "icite": {
+        "_id": "41791738",
+        "animal": 0.0,
+        "apt": 0.5,
+        "authors": [
+          {
+            "firstName": "Carolyn S P",
+            "fullName": "Lam, Carolyn S P",
+            "lastName": "Lam"
+          },
+          {
+            "firstName": "Biykem",
+            "fullName": "Bozkurt, Biykem",
+            "lastName": "Bozkurt"
+          },
+          {
+            "firstName": "David Z I",
+            "fullName": "Cherney, David Z I",
+            "lastName": "Cherney"
+          },
+          {
+            "firstName": "Justin A",
+            "fullName": "Ezekowitz, Justin A",
+            "lastName": "Ezekowitz"
+          },
+          {
+            "firstName": "Meg J",
+            "fullName": "Jardine, Meg J",
+            "lastName": "Jardine"
+          },
+          {
+            "firstName": "Sadiya S",
+            "fullName": "Khan, Sadiya S",
+            "lastName": "Khan"
+          },
+          {
+            "firstName": "Magdalena",
+            "fullName": "Madero, Magdalena",
+            "lastName": "Madero"
+          },
+          {
+            "firstName": "Mark J",
+            "fullName": "Sarnak, Mark J",
+            "lastName": "Sarnak"
+          },
+          {
+            "firstName": "Jozine M",
+            "fullName": "Ter Maaten, Jozine M",
+            "lastName": "Ter Maaten"
+          },
+          {
+            "firstName": "Michael",
+            "fullName": "Cheung, Michael",
+            "lastName": "Cheung"
+          },
+          {
+            "firstName": "Jennifer M",
+            "fullName": "King, Jennifer M",
+            "lastName": "King"
+          },
+          {
+            "firstName": "Morgan E",
+            "fullName": "Grams, Morgan E",
+            "lastName": "Grams"
+          },
+          {
+            "firstName": "Michel",
+            "fullName": "Jadoul, Michel",
+            "lastName": "Jadoul"
+          },
+          {
+            "firstName": "Nisha",
+            "fullName": "Bansal, Nisha",
+            "lastName": "Bansal"
+          },
+          {
+            "fullName": "Conference Participants"
+          }
+        ],
+        "citation_count": 3,
+        "citations_per_year": 3.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": [
+          {
+            "42411248": 2026
+          },
+          {
+            "42351717": 2026
+          },
+          {
+            "42455623": 2026
+          }
+        ],
+        "cited_by": [
+          42411248,
+          42351717,
+          42455623
+        ],
+        "cited_by_clin": null,
+        "doi": "10.1016/j.kint.2025.10.011",
+        "expected_citations_per_year": null,
+        "field_citation_rate": 17.477045220808613,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "Kidney Int",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 41791738,
+        "provisional": false,
+        "references": [
+          36027559,
+          37119876,
+          29544928,
+          36254693,
+          36796671,
+          35442064,
+          26721915,
+          37807165,
+          36787124,
+          30338197,
+          35023547,
+          19850697,
+          23325460,
+          27638233,
+          32462462,
+          26861140,
+          35022210,
+          29322198,
+          38742428,
+          36373551,
+          27173031,
+          18452784,
+          38567506,
+          34447992,
+          33406882,
+          39614837,
+          34191394,
+          22505396,
+          21903907,
+          39225278,
+          20606118,
+          35226558,
+          32998816,
+          26693947,
+          36351458,
+          34120618,
+          23131078,
+          38319838,
+          24621973,
+          36700431,
+          26874386,
+          25650371,
+          40159390,
+          28217978,
+          26299229,
+          39217561,
+          35381194,
+          36129693,
+          35379504,
+          38785209,
+          38215917,
+          34353883,
+          38490803,
+          38466244,
+          38740173,
+          35239201,
+          35902165,
+          18577827,
+          30354446,
+          37947085,
+          31047019,
+          31558270,
+          36653095,
+          36734033,
+          21666249,
+          36148485,
+          15302780,
+          37389661,
+          37763045,
+          37872654,
+          37622681,
+          21055713,
+          35721610,
+          34449189,
+          32535124,
+          31535829,
+          33264825,
+          18617068,
+          22681864,
+          24164864,
+          25722365,
+          38289525,
+          34293394,
+          21926073,
+          35363499,
+          29655829,
+          25441437,
+          16697315,
+          37137592,
+          37137593,
+          37364186,
+          37632463,
+          23288912,
+          21366472,
+          39608381,
+          32267771,
+          39365237,
+          28371075,
+          38939376,
+          19683640,
+          37330614,
+          29352071,
+          31146814,
+          35131929,
+          16461840,
+          20659949,
+          23470495,
+          36918388,
+          17586090,
+          31247182,
+          22167320,
+          33663906,
+          34786794,
+          38897678,
+          2896877,
+          38498611,
+          33070419,
+          36272764,
+          26041600,
+          32865377,
+          33720773,
+          35034172,
+          29410227,
+          32164892,
+          36423214,
+          31047016,
+          27573728,
+          37905361,
+          33031522,
+          37622666,
+          36346045
+        ],
+        "relative_citation_ratio": null,
+        "title": "Kidney disease and heart failure: recent advances and current challenges: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:41791738",
+    "source_type": "literature",
+    "text": "Kidney disease and heart failure: recent advances and current challenges: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference\n\nJournal: Kidney international\nPublication date: 2026 Jun\nPublication types: Journal Article, Practice Guideline\nPMID: 41791738\nDOI: 10.1016/j.kint.2025.10.011\n\nAbstract:\nHeart failure (HF) and chronic kidney disease (CKD) frequently coexist, which elevates the risks of hospitalization, disease progression, and death. Despite advances in treating each condition independently, many challenges remain in diagnosing and managing them in combination. In March 2024, Kidney Disease: Improving Global Outcomes (KDIGO) held the Controversies Conference on Kidney Disease and Heart Failure: Recent Advances and Current Challenges. Discussions highlighted the complex, bidirectional relationship between HF and CKD, including shared risk factors and overlapping pathophysiology as well as nuances in interpreting biomarkers such as natriuretic peptides and serum creatinine. Sodium-glucose cotransporter-2 inhibitors, renin-angiotensin-aldosterone system inhibitors, and emerging agents such as finerenone and glucagon-like peptide-1 receptor agonists can have benefits in both populations of patients with HF and CKD, though evidence in advanced CKD remains limited. Importantly, small declines in kidney function after initiating guideline-directed HF therapies generally do not require discontinuation, as these declines are often hemodynamic in nature and not associated with poor outcomes. The group highlighted the need for CKD-specific HF diagnostic thresholds and refined acute kidney injury definitions in HF. It is important for future cardiovascular and kidney trials to include relevant end points, such as kidney function trajectories, symptom burden, and quality of life. To improve care for individuals with HF and CKD, a more integrated approach to management, rooted in individualization, clinical context, and shared therapeutic goals, is needed.",
+    "text_sha": "da69b368a05089b6",
+    "title": "Kidney disease and heart failure: recent advances and current challenges: conclusions from a Kidney Disease: Improving Global Outcomes (KDIGO) Controversies Conference",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41791738/"
+  }
+]

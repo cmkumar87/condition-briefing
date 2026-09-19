@@ -1,0 +1,2949 @@
+[
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "Solitary plasmacytomas (SPs) are rare localized tumors of clonal plasma cells, either in the bone (solitary bone plasmacytoma) or in soft tissue/extraosseous (extramedullary) with either no or with minimal bone marrow (BM) infiltration (<10% clonal plasma cells by immunohistochemistry) and no evidence of systemic involvement or myeloma defining events. Approximately 50% of SPs will progress to symptomatic myeloma within 5 years after initial definitive local radiotherapy. Increased availability of improved diagnostic and monitoring tools has increased the sensitivity of detection of additional lesions and marrow involvement and has implications for the follow-up strategy after treatment. Thus, the definitions and requirements for the diagnosis and follow-up of SPs are evolving. The diagnosis of SP requires the careful exclusion of multiple myeloma (MM) that would require systemic therapy, by using all the available methods to detect systemic disease (advanced imaging, sensitive BM assessment methods, blood and urine tests). Local radiotherapy remains the mainstay of therapy, and despite the availability of innovative drugs for MM, the clinical benefit of systemic therapy currently remains poorly defined. The International Myeloma Working Group provides here updated recommendations for the diagnosis, evaluation, treatment, and response assessment of patients with SPs, incorporating recent data and advances in diagnostic tools.",
+      "citation_count": 0,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.1200/JCO-26-00410",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "journal_abbrev": "J Clin Oncol",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "42485589",
+      "pub_date": "2026 Sep",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "rcr": null,
+      "year": 2026
+    },
+    "native_id": "42485589",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "42485589"
+          },
+          {
+            "idtype": "pmc",
+            "idtypen": 8,
+            "value": "PMC13528849"
+          },
+          {
+            "idtype": "pmcid",
+            "idtypen": 5,
+            "value": "pmc-id: PMC13528849;"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1200/JCO-26-00410"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kastritis E"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kumar SK"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rajkumar VS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Chng WJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Costa L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Engelhardt M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Gonsalves W"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hungria V"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hillengass J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Jevremovic D"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Katodritou E"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kristinsson SY"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lonial S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ludwig H"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "McCarthy P"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mai E"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Manier S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Martin T"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mateos MV"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mian H"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mikhael J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Moreau P"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Munshi NC"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Paiva B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Pawlyn C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rasche L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Richter J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "San Miguel J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sborov DW"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Usmani SZ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Dimopoulos MA"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Zamagni E"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1200/JCO-26-00410",
+        "epubdate": "2026 Jul 22",
+        "essn": "1527-7755",
+        "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "history": [
+          {
+            "date": "2026/08/28 11:40",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/07/22 18:37",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/07/22 16:03",
+            "pubstatus": "entrez"
+          },
+          {
+            "date": "2026/07/22 00:00",
+            "pubstatus": "pmc-release"
+          }
+        ],
+        "issn": "0732-183X",
+        "issue": "25",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Zamagni E",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "8309333",
+        "pages": "2447-2459",
+        "pmcrefcount": 150,
+        "pubdate": "2026 Sep",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Kastritis E",
+        "sortpubdate": "2026/09/01 00:00",
+        "sorttitle": "international myeloma working group recommendations for the diagnosis and management of solitary plasmacytomas",
+        "source": "J Clin Oncol",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "International Myeloma Working Group Recommendations for the Diagnosis and Management of Solitary Plasmacytomas.",
+        "uid": "42485589",
+        "vernaculartitle": "",
+        "volume": "44"
+      },
+      "icite": {
+        "_id": "42485589",
+        "animal": 0.0,
+        "apt": 0.05,
+        "authors": [
+          {
+            "firstName": "Efstathios",
+            "fullName": "Kastritis, Efstathios",
+            "lastName": "Kastritis"
+          },
+          {
+            "firstName": "Shaji K",
+            "fullName": "Kumar, Shaji K",
+            "lastName": "Kumar"
+          },
+          {
+            "firstName": "Vincent S",
+            "fullName": "Rajkumar, Vincent S",
+            "lastName": "Rajkumar"
+          },
+          {
+            "firstName": "Wee Joo",
+            "fullName": "Chng, Wee Joo",
+            "lastName": "Chng"
+          },
+          {
+            "firstName": "Luciano",
+            "fullName": "Costa, Luciano",
+            "lastName": "Costa"
+          },
+          {
+            "firstName": "Monika",
+            "fullName": "Engelhardt, Monika",
+            "lastName": "Engelhardt"
+          },
+          {
+            "firstName": "Wilson",
+            "fullName": "Gonsalves, Wilson",
+            "lastName": "Gonsalves"
+          },
+          {
+            "firstName": "Vania",
+            "fullName": "Hungria, Vania",
+            "lastName": "Hungria"
+          },
+          {
+            "firstName": "Jens",
+            "fullName": "Hillengass, Jens",
+            "lastName": "Hillengass"
+          },
+          {
+            "firstName": "Dragan",
+            "fullName": "Jevremovic, Dragan",
+            "lastName": "Jevremovic"
+          },
+          {
+            "firstName": "Eirini",
+            "fullName": "Katodritou, Eirini",
+            "lastName": "Katodritou"
+          },
+          {
+            "firstName": "Sigurður Yngvi",
+            "fullName": "Kristinsson, Sigurður Yngvi",
+            "lastName": "Kristinsson"
+          },
+          {
+            "firstName": "Sagar",
+            "fullName": "Lonial, Sagar",
+            "lastName": "Lonial"
+          },
+          {
+            "firstName": "Heinz",
+            "fullName": "Ludwig, Heinz",
+            "lastName": "Ludwig"
+          },
+          {
+            "firstName": "Philip",
+            "fullName": "McCarthy, Philip",
+            "lastName": "McCarthy"
+          },
+          {
+            "firstName": "Elias",
+            "fullName": "Mai, Elias",
+            "lastName": "Mai"
+          },
+          {
+            "firstName": "Salomon",
+            "fullName": "Manier, Salomon",
+            "lastName": "Manier"
+          },
+          {
+            "firstName": "Tom",
+            "fullName": "Martin, Tom",
+            "lastName": "Martin"
+          },
+          {
+            "firstName": "Maria-Victoria",
+            "fullName": "Mateos, Maria-Victoria",
+            "lastName": "Mateos"
+          },
+          {
+            "firstName": "Hira",
+            "fullName": "Mian, Hira",
+            "lastName": "Mian"
+          },
+          {
+            "firstName": "Joseph",
+            "fullName": "Mikhael, Joseph",
+            "lastName": "Mikhael"
+          },
+          {
+            "firstName": "Philippe",
+            "fullName": "Moreau, Philippe",
+            "lastName": "Moreau"
+          },
+          {
+            "firstName": "Nikhil C",
+            "fullName": "Munshi, Nikhil C",
+            "lastName": "Munshi"
+          },
+          {
+            "firstName": "Bruno",
+            "fullName": "Paiva, Bruno",
+            "lastName": "Paiva"
+          },
+          {
+            "firstName": "Charlotte",
+            "fullName": "Pawlyn, Charlotte",
+            "lastName": "Pawlyn"
+          },
+          {
+            "firstName": "Leo",
+            "fullName": "Rasche, Leo",
+            "lastName": "Rasche"
+          },
+          {
+            "firstName": "Joshua",
+            "fullName": "Richter, Joshua",
+            "lastName": "Richter"
+          },
+          {
+            "firstName": "Jesús",
+            "fullName": "San Miguel, Jesús",
+            "lastName": "San Miguel"
+          },
+          {
+            "firstName": "Douglas W",
+            "fullName": "Sborov, Douglas W",
+            "lastName": "Sborov"
+          },
+          {
+            "firstName": "Saad Z",
+            "fullName": "Usmani, Saad Z",
+            "lastName": "Usmani"
+          },
+          {
+            "firstName": "Meletios A",
+            "fullName": "Dimopoulos, Meletios A",
+            "lastName": "Dimopoulos"
+          },
+          {
+            "firstName": "Elena",
+            "fullName": "Zamagni, Elena",
+            "lastName": "Zamagni"
+          }
+        ],
+        "citation_count": 0,
+        "citations_per_year": 0.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": null,
+        "cited_by": null,
+        "cited_by_clin": null,
+        "doi": "10.1200/JCO-26-00410",
+        "expected_citations_per_year": null,
+        "field_citation_rate": null,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "J Clin Oncol",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 42485589,
+        "provisional": false,
+        "references": [],
+        "relative_citation_ratio": null,
+        "title": "International Myeloma Working Group Recommendations for the Diagnosis and Management of Solitary Plasmacytomas.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:42485589",
+    "source_type": "literature",
+    "text": "International Myeloma Working Group Recommendations for the Diagnosis and Management of Solitary Plasmacytomas\n\nJournal: Journal of clinical oncology : official journal of the American Society of Clinical Oncology\nPublication date: 2026 Sep\nPublication types: Journal Article, Practice Guideline\nPMID: 42485589\nDOI: 10.1200/JCO-26-00410\n\nAbstract:\nSolitary plasmacytomas (SPs) are rare localized tumors of clonal plasma cells, either in the bone (solitary bone plasmacytoma) or in soft tissue/extraosseous (extramedullary) with either no or with minimal bone marrow (BM) infiltration (<10% clonal plasma cells by immunohistochemistry) and no evidence of systemic involvement or myeloma defining events. Approximately 50% of SPs will progress to symptomatic myeloma within 5 years after initial definitive local radiotherapy. Increased availability of improved diagnostic and monitoring tools has increased the sensitivity of detection of additional lesions and marrow involvement and has implications for the follow-up strategy after treatment. Thus, the definitions and requirements for the diagnosis and follow-up of SPs are evolving. The diagnosis of SP requires the careful exclusion of multiple myeloma (MM) that would require systemic therapy, by using all the available methods to detect systemic disease (advanced imaging, sensitive BM assessment methods, blood and urine tests). Local radiotherapy remains the mainstay of therapy, and despite the availability of innovative drugs for MM, the clinical benefit of systemic therapy currently remains poorly defined. The International Myeloma Working Group provides here updated recommendations for the diagnosis, evaluation, treatment, and response assessment of patients with SPs, incorporating recent data and advances in diagnostic tools.",
+    "text_sha": "344d92442f058dbd",
+    "title": "International Myeloma Working Group Recommendations for the Diagnosis and Management of Solitary Plasmacytomas",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42485589/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "Living guidelines are developed for selected topic areas with rapidly evolving evidence that drives frequent change in recommended clinical practice. Living guidelines are updated on a regular schedule by a standing expert panel that systematically reviews the health literature on a continuous basis, as described in the ASCO Guidelines Methodology Manual. ASCO Living Guidelines follow the ASCO Conflict of Interest Policy Implementation for Clinical Practice Guidelines. Living Guidelines and updates are not intended to substitute for independent professional judgment of the treating clinician and do not account for individual variation among patients. See appendix for disclaimers and other important information (Appendix 1 and Appendix 2). Updates are published regularly and can be found on the ASCO Publications website.",
+      "citation_count": 0,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.1200/JCO-26-01139",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "journal_abbrev": "J Clin Oncol",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "42160714",
+      "pub_date": "2026 Aug",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "rcr": null,
+      "year": 2026
+    },
+    "native_id": "42160714",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "42160714"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1200/JCO-26-01139"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Banerjee R"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cheung MC"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Derman B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Messersmith H"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Al Hadidi S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bhella S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Chmielewski C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ebraheem MS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kennedy CT"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kumar S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Langerak A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lipe B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mian H"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Riva E"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Seth R"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Subramanian L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Usmani SZ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Wildes TM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Zanwar S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Zhuo Y"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hicks LK"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1200/JCO-26-01139",
+        "epubdate": "2026 May 20",
+        "essn": "1527-7755",
+        "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "history": [
+          {
+            "date": "2026/07/30 00:38",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/05/20 18:33",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/05/20 16:14",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "0732-183X",
+        "issue": "22",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Hicks LK",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "8309333",
+        "pages": "e113-e124",
+        "pmcrefcount": "",
+        "pubdate": "2026 Aug",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Banerjee R",
+        "sortpubdate": "2026/08/01 00:00",
+        "sorttitle": "treatment of multiple myeloma asco living guideline version 2026 1 1",
+        "source": "J Clin Oncol",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "Treatment of Multiple Myeloma: ASCO Living Guideline, Version 2026.1.1.",
+        "uid": "42160714",
+        "vernaculartitle": "",
+        "volume": "44"
+      },
+      "icite": {
+        "_id": "42160714",
+        "animal": 0.0,
+        "apt": 0.05,
+        "authors": [
+          {
+            "firstName": "Rahul",
+            "fullName": "Banerjee, Rahul",
+            "lastName": "Banerjee"
+          },
+          {
+            "firstName": "Matthew C",
+            "fullName": "Cheung, Matthew C",
+            "lastName": "Cheung"
+          },
+          {
+            "firstName": "Benjamin",
+            "fullName": "Derman, Benjamin",
+            "lastName": "Derman"
+          },
+          {
+            "firstName": "Hans",
+            "fullName": "Messersmith, Hans",
+            "lastName": "Messersmith"
+          },
+          {
+            "firstName": "Samer",
+            "fullName": "Al Hadidi, Samer",
+            "lastName": "Al Hadidi"
+          },
+          {
+            "firstName": "Sita",
+            "fullName": "Bhella, Sita",
+            "lastName": "Bhella"
+          },
+          {
+            "firstName": "Cynthia",
+            "fullName": "Chmielewski, Cynthia",
+            "lastName": "Chmielewski"
+          },
+          {
+            "firstName": "Mohammad S",
+            "fullName": "Ebraheem, Mohammad S",
+            "lastName": "Ebraheem"
+          },
+          {
+            "firstName": "C Todd",
+            "fullName": "Kennedy, C Todd",
+            "lastName": "Kennedy"
+          },
+          {
+            "firstName": "Shaji",
+            "fullName": "Kumar, Shaji",
+            "lastName": "Kumar"
+          },
+          {
+            "firstName": "Alan",
+            "fullName": "Langerak, Alan",
+            "lastName": "Langerak"
+          },
+          {
+            "firstName": "Brea",
+            "fullName": "Lipe, Brea",
+            "lastName": "Lipe"
+          },
+          {
+            "firstName": "Hira",
+            "fullName": "Mian, Hira",
+            "lastName": "Mian"
+          },
+          {
+            "firstName": "Eloisa",
+            "fullName": "Riva, Eloisa",
+            "lastName": "Riva"
+          },
+          {
+            "firstName": "Rahul",
+            "fullName": "Seth, Rahul",
+            "lastName": "Seth"
+          },
+          {
+            "firstName": "Latha",
+            "fullName": "Subramanian, Latha",
+            "lastName": "Subramanian"
+          },
+          {
+            "firstName": "Saad Z",
+            "fullName": "Usmani, Saad Z",
+            "lastName": "Usmani"
+          },
+          {
+            "firstName": "Tanya M",
+            "fullName": "Wildes, Tanya M",
+            "lastName": "Wildes"
+          },
+          {
+            "firstName": "Saurabh",
+            "fullName": "Zanwar, Saurabh",
+            "lastName": "Zanwar"
+          },
+          {
+            "firstName": "Ying",
+            "fullName": "Zhuo, Ying",
+            "lastName": "Zhuo"
+          },
+          {
+            "firstName": "Lisa K",
+            "fullName": "Hicks, Lisa K",
+            "lastName": "Hicks"
+          }
+        ],
+        "citation_count": 0,
+        "citations_per_year": 0.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": null,
+        "cited_by": null,
+        "cited_by_clin": null,
+        "doi": "10.1200/JCO-26-01139",
+        "expected_citations_per_year": null,
+        "field_citation_rate": null,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "J Clin Oncol",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 42160714,
+        "provisional": false,
+        "references": [
+          41038184,
+          40459097,
+          40680754,
+          41494138,
+          40016302,
+          41363801,
+          39777934,
+          41052983,
+          37528088,
+          40499010,
+          40769684,
+          41370738,
+          40459178,
+          40220771,
+          41519141
+        ],
+        "relative_citation_ratio": null,
+        "title": "Treatment of Multiple Myeloma: ASCO Living Guideline, Version 2026.1.1.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:42160714",
+    "source_type": "literature",
+    "text": "Treatment of Multiple Myeloma: ASCO Living Guideline, Version 2026.1.1\n\nJournal: Journal of clinical oncology : official journal of the American Society of Clinical Oncology\nPublication date: 2026 Aug\nPublication types: Journal Article, Practice Guideline\nPMID: 42160714\nDOI: 10.1200/JCO-26-01139\n\nAbstract:\nLiving guidelines are developed for selected topic areas with rapidly evolving evidence that drives frequent change in recommended clinical practice. Living guidelines are updated on a regular schedule by a standing expert panel that systematically reviews the health literature on a continuous basis, as described in the ASCO Guidelines Methodology Manual. ASCO Living Guidelines follow the ASCO Conflict of Interest Policy Implementation for Clinical Practice Guidelines. Living Guidelines and updates are not intended to substitute for independent professional judgment of the treating clinician and do not account for individual variation among patients. See appendix for disclaimers and other important information (Appendix 1 and Appendix 2). Updates are published regularly and can be found on the ASCO Publications website.",
+    "text_sha": "fd71c1db6a53ca86",
+    "title": "Treatment of Multiple Myeloma: ASCO Living Guideline, Version 2026.1.1",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42160714/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "The treatment landscape for multiple myeloma (MM) is evolving rapidly and includes several new options. The management must be tailored to the individual. The NCCN Guidelines for MM provide a framework to base decisions regarding diagnosis, workup, treatment, and follow-up of both newly diagnosed and previously treated relapsed/refractory MM. This manuscript outlines the recommendations from NCCN Guidelines for MM specific to newly diagnosed MM (NDMM).",
+      "citation_count": 26,
+      "clinical_citation_count": 1,
+      "copublication_of": null,
+      "doi": "10.6004/jnccn.2026.0001",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Journal of the National Comprehensive Cancer Network : JNCCN",
+      "journal_abbrev": "J Natl Compr Canc Netw",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "41671464",
+      "pub_date": "2026 Jan",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "rcr": 15.701633980748186,
+      "year": 2026
+    },
+    "native_id": "41671464",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "41671464"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.6004/jnccn.2026.0001"
+          },
+          {
+            "idtype": "pii",
+            "idtypen": 4,
+            "value": "e260001"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kumar SK"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Callander NS"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Adekola K"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Anderson LD Jr"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Baljevic M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Baz R"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Campagnaro E"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Costello C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "D'Angelo C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Derman B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Devarakonda S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Elsedawy N"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Godara A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Godby K"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hillengass J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Holmberg L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Htut M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Huff CA"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hultcrantz M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kang Y"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Larson S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lee HC"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Liedtke M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Martin T"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Omel J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Robinson TJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rosenberg A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sarosiek SR"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Schroeder MA"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sherbenou D"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Suvannasankha A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Valent J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Varshavsky-Yanovsky AN"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Vogl D"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ye JC"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kovach E"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kumar R"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "pii: e260001. doi: 10.6004/jnccn.2026.0001",
+        "epubdate": "",
+        "essn": "1540-1413",
+        "fulljournalname": "Journal of the National Comprehensive Cancer Network : JNCCN",
+        "history": [
+          {
+            "date": "2026/02/11 19:00",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/02/11 18:59",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/02/11 15:04",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "1540-1405",
+        "issue": "1",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Kumar R",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "101162515",
+        "pages": "",
+        "pmcrefcount": "",
+        "pubdate": "2026 Jan",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "4",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Kumar SK",
+        "sortpubdate": "2026/01/01 00:00",
+        "sorttitle": "multiple myeloma version 5 2026 nccn clinical practice guidelines in oncology",
+        "source": "J Natl Compr Canc Netw",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "Multiple Myeloma, Version 5.2026, NCCN Clinical Practice Guidelines In Oncology.",
+        "uid": "41671464",
+        "vernaculartitle": "",
+        "volume": "24"
+      },
+      "icite": {
+        "_id": "41671464",
+        "animal": 0.0,
+        "apt": 0.95,
+        "authors": [
+          {
+            "firstName": "Shaji K",
+            "fullName": "Kumar, Shaji K",
+            "lastName": "Kumar"
+          },
+          {
+            "firstName": "Natalie S",
+            "fullName": "Callander, Natalie S",
+            "lastName": "Callander"
+          },
+          {
+            "firstName": "Kehinde",
+            "fullName": "Adekola, Kehinde",
+            "lastName": "Adekola"
+          },
+          {
+            "firstName": "Larry D",
+            "fullName": "Anderson, Larry D",
+            "lastName": "Anderson"
+          },
+          {
+            "firstName": "Muhamed",
+            "fullName": "Baljevic, Muhamed",
+            "lastName": "Baljevic"
+          },
+          {
+            "firstName": "Rachid",
+            "fullName": "Baz, Rachid",
+            "lastName": "Baz"
+          },
+          {
+            "firstName": "Erica",
+            "fullName": "Campagnaro, Erica",
+            "lastName": "Campagnaro"
+          },
+          {
+            "firstName": "Caitlin",
+            "fullName": "Costello, Caitlin",
+            "lastName": "Costello"
+          },
+          {
+            "firstName": "Christopher",
+            "fullName": "D'Angelo, Christopher",
+            "lastName": "D'Angelo"
+          },
+          {
+            "firstName": "Benjamin",
+            "fullName": "Derman, Benjamin",
+            "lastName": "Derman"
+          },
+          {
+            "firstName": "Srinivas",
+            "fullName": "Devarakonda, Srinivas",
+            "lastName": "Devarakonda"
+          },
+          {
+            "firstName": "Noura",
+            "fullName": "Elsedawy, Noura",
+            "lastName": "Elsedawy"
+          },
+          {
+            "firstName": "Amandeep",
+            "fullName": "Godara, Amandeep",
+            "lastName": "Godara"
+          },
+          {
+            "firstName": "Kelly",
+            "fullName": "Godby, Kelly",
+            "lastName": "Godby"
+          },
+          {
+            "firstName": "Jens",
+            "fullName": "Hillengass, Jens",
+            "lastName": "Hillengass"
+          },
+          {
+            "firstName": "Leona",
+            "fullName": "Holmberg, Leona",
+            "lastName": "Holmberg"
+          },
+          {
+            "firstName": "Myo",
+            "fullName": "Htut, Myo",
+            "lastName": "Htut"
+          },
+          {
+            "firstName": "Carol Ann",
+            "fullName": "Huff, Carol Ann",
+            "lastName": "Huff"
+          },
+          {
+            "firstName": "Malin",
+            "fullName": "Hultcrantz, Malin",
+            "lastName": "Hultcrantz"
+          },
+          {
+            "firstName": "Yubin",
+            "fullName": "Kang, Yubin",
+            "lastName": "Kang"
+          },
+          {
+            "firstName": "Sarah",
+            "fullName": "Larson, Sarah",
+            "lastName": "Larson"
+          },
+          {
+            "firstName": "Hans C",
+            "fullName": "Lee, Hans C",
+            "lastName": "Lee"
+          },
+          {
+            "firstName": "Michaela",
+            "fullName": "Liedtke, Michaela",
+            "lastName": "Liedtke"
+          },
+          {
+            "firstName": "Thomas",
+            "fullName": "Martin, Thomas",
+            "lastName": "Martin"
+          },
+          {
+            "firstName": "James",
+            "fullName": "Omel, James",
+            "lastName": "Omel"
+          },
+          {
+            "firstName": "Timothy J",
+            "fullName": "Robinson, Timothy J",
+            "lastName": "Robinson"
+          },
+          {
+            "firstName": "Aaron",
+            "fullName": "Rosenberg, Aaron",
+            "lastName": "Rosenberg"
+          },
+          {
+            "firstName": "Shayna R",
+            "fullName": "Sarosiek, Shayna R",
+            "lastName": "Sarosiek"
+          },
+          {
+            "firstName": "Mark A",
+            "fullName": "Schroeder, Mark A",
+            "lastName": "Schroeder"
+          },
+          {
+            "firstName": "Daniel",
+            "fullName": "Sherbenou, Daniel",
+            "lastName": "Sherbenou"
+          },
+          {
+            "firstName": "Attaya",
+            "fullName": "Suvannasankha, Attaya",
+            "lastName": "Suvannasankha"
+          },
+          {
+            "firstName": "Jason",
+            "fullName": "Valent, Jason",
+            "lastName": "Valent"
+          },
+          {
+            "firstName": "Asya Nina",
+            "fullName": "Varshavsky-Yanovsky, Asya Nina",
+            "lastName": "Varshavsky-Yanovsky"
+          },
+          {
+            "firstName": "Dan",
+            "fullName": "Vogl, Dan",
+            "lastName": "Vogl"
+          },
+          {
+            "firstName": "Jing Christine",
+            "fullName": "Ye, Jing Christine",
+            "lastName": "Ye"
+          },
+          {
+            "firstName": "Emily",
+            "fullName": "Kovach, Emily",
+            "lastName": "Kovach"
+          },
+          {
+            "firstName": "Rashmi",
+            "fullName": "Kumar, Rashmi",
+            "lastName": "Kumar"
+          }
+        ],
+        "citation_count": 26,
+        "citations_per_year": 26.0,
+        "citedByClinicalArticle": true,
+        "citedByPmidsByYear": [
+          {
+            "41744842": 2026
+          },
+          {
+            "41917303": 2026
+          },
+          {
+            "42342528": 2026
+          },
+          {
+            "42092832": 2026
+          },
+          {
+            "42373204": 2026
+          },
+          {
+            "41995759": 2026
+          },
+          {
+            "42232086": 2026
+          },
+          {
+            "42194889": 2026
+          },
+          {
+            "42169674": 2026
+          },
+          {
+            "42094603": 2026
+          },
+          {
+            "42315477": 2026
+          },
+          {
+            "42171515": 2026
+          },
+          {
+            "42274870": 2026
+          },
+          {
+            "41939906": 2026
+          },
+          {
+            "42365547": 2026
+          },
+          {
+            "41571958": 2026
+          },
+          {
+            "42577301": 2026
+          },
+          {
+            "42014580": 2026
+          },
+          {
+            "42449591": 2026
+          },
+          {
+            "42116052": 2026
+          },
+          {
+            "41831470": 2026
+          },
+          {
+            "41991305": 2026
+          },
+          {
+            "42021581": 2026
+          },
+          {
+            "42445381": 2026
+          },
+          {
+            "42355544": 2026
+          },
+          {
+            "42479293": 2026
+          }
+        ],
+        "cited_by": [
+          41744842,
+          41917303,
+          42342528,
+          42092832,
+          42373204,
+          41995759,
+          42232086,
+          42194889,
+          42169674,
+          42094603,
+          42315477,
+          42171515,
+          42274870,
+          41939906,
+          42365547,
+          41571958,
+          42577301,
+          42014580,
+          42449591,
+          42116052,
+          41831470,
+          41991305,
+          42021581,
+          42445381,
+          42355544,
+          42479293
+        ],
+        "cited_by_clin": [
+          42021581
+        ],
+        "doi": "10.6004/jnccn.2026.0001",
+        "expected_citations_per_year": 1.6558786195041018,
+        "field_citation_rate": 11.03770200145424,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "J Natl Compr Canc Netw",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 41671464,
+        "provisional": true,
+        "references": [
+          34087126,
+          34898239,
+          18198345,
+          21181954,
+          16275936,
+          30471652,
+          37776872,
+          32393732,
+          26679866,
+          28017406,
+          39817679,
+          26056177,
+          8562947,
+          35994632,
+          26648535,
+          24419113,
+          24855212,
+          25456369,
+          40082415,
+          17924119,
+          17593024,
+          16115129,
+          17485707,
+          12528874,
+          10073564,
+          17024116,
+          22689676,
+          27511158,
+          26490489,
+          28686535,
+          22571201,
+          17352369,
+          12736280,
+          17942755,
+          18337559,
+          20410185,
+          20085933,
+          32735641,
+          33021870,
+          26495861,
+          33763699,
+          12732167,
+          26990892,
+          28432222,
+          22571200,
+          37753960,
+          20385792,
+          35875251,
+          27325857,
+          39331724,
+          40102816,
+          19880781,
+          34655533,
+          24535407,
+          35605179,
+          23576287,
+          15976175,
+          22086552,
+          12533739,
+          29740809,
+          32034285,
+          18364469,
+          32524584,
+          38811560,
+          39581818,
+          40489728,
+          33284948,
+          16616336,
+          24972772,
+          28255016,
+          16757975,
+          14671630,
+          27864218,
+          28826616,
+          32866432,
+          22498745,
+          15361911,
+          41038184,
+          11806971,
+          37414019,
+          30828799,
+          20477864,
+          10944138,
+          28742454,
+          37708911,
+          14695409,
+          30653422,
+          16855634,
+          30545780,
+          21690556,
+          23406213,
+          20413666,
+          16705089,
+          40016302,
+          30573775,
+          38889735,
+          17209057,
+          19443657,
+          18850013,
+          16453155,
+          27632282,
+          37726298,
+          25184863,
+          21507715,
+          25184862,
+          38739707,
+          23616624,
+          14976044,
+          38084760,
+          18802723,
+          15809451,
+          24974945,
+          36328040,
+          26240224,
+          34529931,
+          34774221,
+          37807952,
+          32213342,
+          30733270,
+          22665938,
+          20823406,
+          39652594,
+          29263438,
+          38832972,
+          19955246,
+          23387937,
+          38394666,
+          16432076,
+          16434386,
+          22062804,
+          22674807,
+          11149728,
+          35143040,
+          39910273,
+          24769014,
+          32298201,
+          33739404,
+          19637091,
+          25439696,
+          29263440,
+          22802322,
+          31733155,
+          24525202,
+          40085948,
+          18587435,
+          35660812,
+          28576443,
+          26181891,
+          32327729,
+          27374467,
+          9354693,
+          19020545,
+          32284296,
+          37855718,
+          25024076,
+          8649495,
+          17296972,
+          19853510,
+          24948586,
+          32499244,
+          33856405,
+          28379796,
+          21565277,
+          40459097,
+          38830994,
+          19225538,
+          28735890,
+          26659916,
+          22571202,
+          20177023,
+          39825822,
+          21657961,
+          22422823,
+          24220275,
+          21630308,
+          22371180,
+          23733781,
+          9680348,
+          26078390,
+          20722702
+        ],
+        "relative_citation_ratio": 15.701633980748186,
+        "title": "Multiple Myeloma, Version 5.2026, NCCN Clinical Practice Guidelines In Oncology.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:41671464",
+    "source_type": "literature",
+    "text": "Multiple Myeloma, Version 5.2026, NCCN Clinical Practice Guidelines In Oncology\n\nJournal: Journal of the National Comprehensive Cancer Network : JNCCN\nPublication date: 2026 Jan\nPublication types: Journal Article, Practice Guideline\nPMID: 41671464\nDOI: 10.6004/jnccn.2026.0001\n\nAbstract:\nThe treatment landscape for multiple myeloma (MM) is evolving rapidly and includes several new options. The management must be tailored to the individual. The NCCN Guidelines for MM provide a framework to base decisions regarding diagnosis, workup, treatment, and follow-up of both newly diagnosed and previously treated relapsed/refractory MM. This manuscript outlines the recommendations from NCCN Guidelines for MM specific to newly diagnosed MM (NDMM).",
+    "text_sha": "8ab69a97a2ba8d50",
+    "title": "Multiple Myeloma, Version 5.2026, NCCN Clinical Practice Guidelines In Oncology",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41671464/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "PURPOSE: Bispecific antibodies emerged as a new class of treatment for patients with relapsed/refractory multiple myeloma. Education on the practicalities of delivery and patient management is vital to optimize outcomes with these novel agents.\nMETHODS: A group of 5 experienced hematologists from centers in the United States, Europe and Latin America met to discuss key considerations for bispecific antibody therapy and agree on best practice advice.\nRESULTS AND DISCUSSION: This paper presents advice for best practice at each stage of the bispecific antibody therapy patient journey: patient eligibility, pretreatment medication, step-up dosing, treatment, management of adverse events and long-term care.\nCONCLUSION: We believe that the expert insights presented here will help to educate healthcare professionals and optimize patient outcomes by guiding the implementation of bispecific antibody therapy into real-world practice.",
+      "citation_count": 1,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.1016/j.clml.2025.12.015",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Clinical lymphoma, myeloma & leukemia",
+      "journal_abbrev": "Clin Lymphoma Myeloma Leuk",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "41611596",
+      "pub_date": "2026 Mar",
+      "pub_types": [
+        "Consensus Statement",
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "rcr": null,
+      "year": 2026
+    },
+    "native_id": "41611596",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "41611596"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1016/j.clml.2025.12.015"
+          },
+          {
+            "idtype": "pii",
+            "idtypen": 4,
+            "value": "S2152-2650(25)04323-X"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rodriguez C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Touzeau C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Crusoe EQ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Pericole FV"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hungria V"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1016/j.clml.2025.12.015",
+        "epubdate": "2025 Dec 26",
+        "essn": "2152-2669",
+        "fulljournalname": "Clinical lymphoma, myeloma & leukemia",
+        "history": [
+          {
+            "date": "2025/11/14 00:00",
+            "pubstatus": "received"
+          },
+          {
+            "date": "2025/12/22 00:00",
+            "pubstatus": "accepted"
+          },
+          {
+            "date": "2026/03/07 18:38",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/01/30 00:55",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/01/29 21:54",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "",
+        "issue": "3",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Hungria V",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "101525386",
+        "pages": "169-177",
+        "pmcrefcount": "",
+        "pubdate": "2026 Mar",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Consensus Statement",
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Rodriguez C",
+        "sortpubdate": "2026/03/01 00:00",
+        "sorttitle": "bispecific antibody therapy for multiple myeloma a practical toolkit",
+        "source": "Clin Lymphoma Myeloma Leuk",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "Bispecific Antibody Therapy for Multiple Myeloma: A Practical Toolkit.",
+        "uid": "41611596",
+        "vernaculartitle": "",
+        "volume": "26"
+      },
+      "icite": {
+        "_id": "41611596",
+        "animal": 0.0,
+        "apt": 0.05,
+        "authors": [
+          {
+            "firstName": "Cesar",
+            "fullName": "Rodriguez, Cesar",
+            "lastName": "Rodriguez"
+          },
+          {
+            "firstName": "Cyrille",
+            "fullName": "Touzeau, Cyrille",
+            "lastName": "Touzeau"
+          },
+          {
+            "firstName": "Edvan",
+            "fullName": "De Queiroz Crusoe, Edvan",
+            "lastName": "De Queiroz Crusoe"
+          },
+          {
+            "firstName": "Fernando Vieira",
+            "fullName": "Pericole, Fernando Vieira",
+            "lastName": "Pericole"
+          },
+          {
+            "firstName": "Vania",
+            "fullName": "Hungria, Vania",
+            "lastName": "Hungria"
+          }
+        ],
+        "citation_count": 1,
+        "citations_per_year": 1.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": [
+          {
+            "42344691": 2026
+          }
+        ],
+        "cited_by": [
+          42344691
+        ],
+        "cited_by_clin": null,
+        "doi": "10.1016/j.clml.2025.12.015",
+        "expected_citations_per_year": null,
+        "field_citation_rate": 10.506042430068565,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "Clin Lymphoma Myeloma Leuk",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 41611596,
+        "provisional": false,
+        "references": [
+          38114481,
+          39155155,
+          30858549,
+          37901215,
+          37614153,
+          38151105,
+          36991547,
+          35661166,
+          36243623,
+          33863601,
+          36507686,
+          35860442,
+          31348010,
+          36881609,
+          33946635,
+          37960969,
+          34724386,
+          21561350,
+          35584441,
+          29907163,
+          38871558,
+          39172760,
+          31497342,
+          34175021,
+          38821074,
+          36029527,
+          34923107,
+          39177290,
+          38697166,
+          37528088,
+          39030279,
+          37769148,
+          31767529,
+          37582952,
+          15086536,
+          38817306,
+          11077032
+        ],
+        "relative_citation_ratio": null,
+        "title": "Bispecific Antibody Therapy for Multiple Myeloma: A Practical Toolkit.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:41611596",
+    "source_type": "literature",
+    "text": "Bispecific Antibody Therapy for Multiple Myeloma: A Practical Toolkit\n\nJournal: Clinical lymphoma, myeloma & leukemia\nPublication date: 2026 Mar\nPublication types: Consensus Statement, Journal Article, Practice Guideline\nPMID: 41611596\nDOI: 10.1016/j.clml.2025.12.015\n\nAbstract:\nPURPOSE: Bispecific antibodies emerged as a new class of treatment for patients with relapsed/refractory multiple myeloma. Education on the practicalities of delivery and patient management is vital to optimize outcomes with these novel agents.\nMETHODS: A group of 5 experienced hematologists from centers in the United States, Europe and Latin America met to discuss key considerations for bispecific antibody therapy and agree on best practice advice.\nRESULTS AND DISCUSSION: This paper presents advice for best practice at each stage of the bispecific antibody therapy patient journey: patient eligibility, pretreatment medication, step-up dosing, treatment, management of adverse events and long-term care.\nCONCLUSION: We believe that the expert insights presented here will help to educate healthcare professionals and optimize patient outcomes by guiding the implementation of bispecific antibody therapy into real-world practice.",
+    "text_sha": "959a7081cdd71793",
+    "title": "Bispecific Antibody Therapy for Multiple Myeloma: A Practical Toolkit",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41611596/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "PURPOSE: To provide updated guidance regarding the therapy for multiple myeloma.\nMETHODS: ASCO and Ontario Health (Cancer Care Ontario) convened a joint Expert Panel and conducted an updated systematic review of the literature.\nRESULTS: The updated review identified a total of 161 relevant randomized trials.\nUPDATED RECOMMENDATIONS: Daratumumab therapy may be offered to patients with high-risk smoldering myeloma. Quadruplet therapy with daratumumab or isatuximab, combined with bortezomib, lenalidomide, and dexamethasone, should be offered as initial therapy for transplant eligible patients. They should also be offered at least lenalidomide maintenance, with or without daratumumab, carfilzomib, and/or dexamethasone. Quadruplet therapy with daratumumab or isatuximab, combined with bortezomib, lenalidomide, and dexamethasone, should be offered as therapy for suitable transplant-ineligible patients. Patients with relapsed or refractory multiple myeloma should be offered triplet therapy or T-cell redirecting therapies according to a set of recommended principles.Additional information is available at www.asco.org/hematologic-malignancies-guidelines.",
+      "citation_count": 4,
+      "clinical_citation_count": 1,
+      "copublication_of": null,
+      "doi": "10.1200/JCO-25-02587",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "journal_abbrev": "J Clin Oncol",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "41494138",
+      "pub_date": "2026 Apr",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "rcr": null,
+      "year": 2026
+    },
+    "native_id": "41494138",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "41494138"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.1200/JCO-25-02587"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hicks LK"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Messersmith HJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Al Hadidi S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Banerjee R"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Derman BA"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Kumar S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Wildes TM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bal S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bhella S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Chmielewski C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Costello C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Dabney R"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Hartley-Brown M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Langerak A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lipe B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Martin T"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "McCurdy A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mian H"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Riva E"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Seth R"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Subramanian L"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Mikhael J"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.1200/JCO-25-02587",
+        "epubdate": "2026 Jan 6",
+        "essn": "1527-7755",
+        "fulljournalname": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "history": [
+          {
+            "date": "2026/03/28 00:42",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2026/01/06 19:17",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2026/01/06 16:02",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "0732-183X",
+        "issue": "10",
+        "lang": [
+          "eng"
+        ],
+        "lastauthor": "Mikhael J",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "8309333",
+        "pages": "914-941",
+        "pmcrefcount": "",
+        "pubdate": "2026 Apr",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Hicks LK",
+        "sortpubdate": "2026/04/01 00:00",
+        "sorttitle": "treatment of multiple myeloma asco ontario health cancer care ontario living guideline",
+        "source": "J Clin Oncol",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "Treatment of Multiple Myeloma: ASCO-Ontario Health (Cancer Care Ontario) Living Guideline.",
+        "uid": "41494138",
+        "vernaculartitle": "",
+        "volume": "44"
+      },
+      "icite": {
+        "_id": "41494138",
+        "animal": 0.0,
+        "apt": 0.5,
+        "authors": [
+          {
+            "firstName": "Lisa K",
+            "fullName": "Hicks, Lisa K",
+            "lastName": "Hicks"
+          },
+          {
+            "firstName": "Hans J",
+            "fullName": "Messersmith, Hans J",
+            "lastName": "Messersmith"
+          },
+          {
+            "firstName": "Samer",
+            "fullName": "Al Hadidi, Samer",
+            "lastName": "Al Hadidi"
+          },
+          {
+            "firstName": "Rahul",
+            "fullName": "Banerjee, Rahul",
+            "lastName": "Banerjee"
+          },
+          {
+            "firstName": "Benjamin A",
+            "fullName": "Derman, Benjamin A",
+            "lastName": "Derman"
+          },
+          {
+            "firstName": "Shaji",
+            "fullName": "Kumar, Shaji",
+            "lastName": "Kumar"
+          },
+          {
+            "firstName": "Tanya M",
+            "fullName": "Wildes, Tanya M",
+            "lastName": "Wildes"
+          },
+          {
+            "firstName": "Susan",
+            "fullName": "Bal, Susan",
+            "lastName": "Bal"
+          },
+          {
+            "firstName": "Sita",
+            "fullName": "Bhella, Sita",
+            "lastName": "Bhella"
+          },
+          {
+            "firstName": "Cynthia",
+            "fullName": "Chmielewski, Cynthia",
+            "lastName": "Chmielewski"
+          },
+          {
+            "firstName": "Caitlin",
+            "fullName": "Costello, Caitlin",
+            "lastName": "Costello"
+          },
+          {
+            "firstName": "Raetasha",
+            "fullName": "Dabney, Raetasha",
+            "lastName": "Dabney"
+          },
+          {
+            "firstName": "Monique",
+            "fullName": "Hartley-Brown, Monique",
+            "lastName": "Hartley-Brown"
+          },
+          {
+            "firstName": "Alan",
+            "fullName": "Langerak, Alan",
+            "lastName": "Langerak"
+          },
+          {
+            "firstName": "Brea",
+            "fullName": "Lipe, Brea",
+            "lastName": "Lipe"
+          },
+          {
+            "firstName": "Thomas",
+            "fullName": "Martin, Thomas",
+            "lastName": "Martin"
+          },
+          {
+            "firstName": "Arleigh",
+            "fullName": "McCurdy, Arleigh",
+            "lastName": "McCurdy"
+          },
+          {
+            "firstName": "Hira",
+            "fullName": "Mian, Hira",
+            "lastName": "Mian"
+          },
+          {
+            "firstName": "Eloisa",
+            "fullName": "Riva, Eloisa",
+            "lastName": "Riva"
+          },
+          {
+            "firstName": "Rahul",
+            "fullName": "Seth, Rahul",
+            "lastName": "Seth"
+          },
+          {
+            "firstName": "Latha",
+            "fullName": "Subramanian, Latha",
+            "lastName": "Subramanian"
+          },
+          {
+            "firstName": "Joseph",
+            "fullName": "Mikhael, Joseph",
+            "lastName": "Mikhael"
+          }
+        ],
+        "citation_count": 4,
+        "citations_per_year": 4.0,
+        "citedByClinicalArticle": true,
+        "citedByPmidsByYear": [
+          {
+            "42496283": 2026
+          },
+          {
+            "42160714": 2026
+          },
+          {
+            "42445381": 2026
+          },
+          {
+            "42183230": 2026
+          }
+        ],
+        "cited_by": [
+          42496283,
+          42160714,
+          42445381,
+          42183230
+        ],
+        "cited_by_clin": [
+          42160714
+        ],
+        "doi": "10.1200/JCO-25-02587",
+        "expected_citations_per_year": null,
+        "field_citation_rate": 6.77929263704619,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "J Clin Oncol",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 41494138,
+        "provisional": false,
+        "references": [
+          24449241,
+          34087126,
+          40179916,
+          36308022,
+          37776872,
+          35661166,
+          39321347,
+          26671818,
+          36762851,
+          32393732,
+          33189178,
+          28017406,
+          37853832,
+          25184862,
+          37459573,
+          30932732,
+          23616624,
+          34724386,
+          37163358,
+          29895887,
+          33428632,
+          38084760,
+          36969337,
+          28111466,
+          33067414,
+          36114265,
+          27705267,
+          31652094,
+          36328040,
+          33980831,
+          37506339,
+          30237264,
+          25482145,
+          28843768,
+          17576818,
+          31171419,
+          34529931,
+          34774221,
+          31735560,
+          37164972,
+          33211080,
+          30777794,
+          20823406,
+          30819926,
+          38832972,
+          39652594,
+          37024420,
+          33326116,
+          38748941,
+          22571201,
+          23902483,
+          31141632,
+          23298856,
+          32574117,
+          38361116,
+          38879802,
+          39910273,
+          39375362,
+          37156782,
+          36642080,
+          32325490,
+          33739404,
+          29231133,
+          25439696,
+          22802322,
+          35190659,
+          37582952,
+          31097405,
+          39652675,
+          35660812,
+          32359506,
+          37648670,
+          36402700,
+          39909655,
+          30910541,
+          39331724,
+          30403938,
+          28278302,
+          34655533,
+          36763537,
+          20940200,
+          40865024,
+          38830994,
+          40459097,
+          37272512,
+          40407887,
+          21208779,
+          32034285,
+          36067617,
+          33910333,
+          40453524,
+          40489728,
+          36858677,
+          36507686,
+          27119237,
+          37102598,
+          32866432,
+          22571202,
+          31836199,
+          34520219,
+          38828951,
+          17582068,
+          28742454,
+          37708911,
+          28892432,
+          37002943,
+          28761118,
+          28382618,
+          32887873,
+          31686561,
+          38977707,
+          39510106,
+          38828933,
+          39815052,
+          30545780
+        ],
+        "relative_citation_ratio": null,
+        "title": "Treatment of Multiple Myeloma: ASCO-Ontario Health (Cancer Care Ontario) Living Guideline.",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2026
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2026-01-01",
+    "source_id": "pubmed:41494138",
+    "source_type": "literature",
+    "text": "Treatment of Multiple Myeloma: ASCO-Ontario Health (Cancer Care Ontario) Living Guideline\n\nJournal: Journal of clinical oncology : official journal of the American Society of Clinical Oncology\nPublication date: 2026 Apr\nPublication types: Journal Article, Practice Guideline, Systematic Review, Research Support, Non-U.S. Gov't\nPMID: 41494138\nDOI: 10.1200/JCO-25-02587\n\nAbstract:\nPURPOSE: To provide updated guidance regarding the therapy for multiple myeloma.\nMETHODS: ASCO and Ontario Health (Cancer Care Ontario) convened a joint Expert Panel and conducted an updated systematic review of the literature.\nRESULTS: The updated review identified a total of 161 relevant randomized trials.\nUPDATED RECOMMENDATIONS: Daratumumab therapy may be offered to patients with high-risk smoldering myeloma. Quadruplet therapy with daratumumab or isatuximab, combined with bortezomib, lenalidomide, and dexamethasone, should be offered as initial therapy for transplant eligible patients. They should also be offered at least lenalidomide maintenance, with or without daratumumab, carfilzomib, and/or dexamethasone. Quadruplet therapy with daratumumab or isatuximab, combined with bortezomib, lenalidomide, and dexamethasone, should be offered as therapy for suitable transplant-ineligible patients. Patients with relapsed or refractory multiple myeloma should be offered triplet therapy or T-cell redirecting therapies according to a set of recommended principles.Additional information is available at www.asco.org/hematologic-malignancies-guidelines.",
+    "text_sha": "099c6fce5f129768",
+    "title": "Treatment of Multiple Myeloma: ASCO-Ontario Health (Cancer Care Ontario) Living Guideline",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41494138/"
+  },
+  {
+    "drug_label": null,
+    "literature": {
+      "abstract": "Multiple myeloma is a neoplasm of plasma cells that in most cases is associated with the secretion of monoclonal immunoglobulins and can involve multiple organs. Its timely diagnosis is essential to limit or avoid irreversible damage and dysfunction of target organs. Appropriate initial stratification of patients allows for optimization in the selection and sequence of therapy, as well as proper follow-up during treatment and monitoring, impacting survival. These laboratory guidelines from the Portuguese Multiple Myeloma Group provide recommendations for the diagnosis and laboratory follow-up of patients with multiple myeloma. The follow-up and diagnosis of patients with other clinically significant monoclonal gammopathies were not included in this text. This article was based on international guidelines, scientific publications, and the experience of a panel of specialists in clinical and laboratory fields dedicated to the study and treatment of multiple myeloma.\nO mieloma múltiplo é uma neoplasia de plasmócitos que, na maioria dos casos, se associa à secreção de imunoglobulinas monoclonais e que pode cursar com um atingimento multiorgânico. O diagnóstico atempado do mieloma múltiplo é essencial para evitar ou limitar danos irreversíveis e disfunção dos órgãos-alvo. A apropriada estratificação inicial dos doentes permite otimizar a seleção e a sequência da terapêutica, assim como o correto seguimento durante o tratamento, com impacto na sobrevivência. As presentes recomendações laboratoriais do Grupo Português do Mieloma Múltiplo oferecem orientações para o diagnóstico e seguimento laboratorial dos doentes com mieloma múltiplo. O seguimento e diagnóstico de doentes com outras gamapatias monoclonais de significado clínico não foram incluídos neste texto. A sua elaboração tem por base orientações internacionais, publicações científicas e experiência de um painel de especialistas nacionais das áreas clínicas e laboratoriais dedicados ao estudo e tratamento do mieloma múltiplo.",
+      "citation_count": 0,
+      "clinical_citation_count": null,
+      "copublication_of": null,
+      "doi": "10.20344/amp.22909",
+      "icite_enriched": true,
+      "is_preprint": false,
+      "journal": "Acta medica portuguesa",
+      "journal_abbrev": "Acta Med Port",
+      "medline_indexed": true,
+      "nih_percentile": null,
+      "pmid": "40884158",
+      "pub_date": "2025 Oct 1",
+      "pub_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "English Abstract"
+      ],
+      "rcr": null,
+      "year": 2025
+    },
+    "native_id": "40884158",
+    "payload": {
+      "esummary": {
+        "articleids": [
+          {
+            "idtype": "pubmed",
+            "idtypen": 1,
+            "value": "40884158"
+          },
+          {
+            "idtype": "doi",
+            "idtypen": 3,
+            "value": "10.20344/amp.22909"
+          }
+        ],
+        "attributes": [
+          "Has Abstract"
+        ],
+        "authors": [
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Pires AM"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Barreto JP"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Caetano J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Soares MJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Geraldes C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Fernandes B"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Coucelo M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Chacim S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Coelho H"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Correia C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cruz AP"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cunha M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cunha MR"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Cunha N"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ferraz P"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Freitas JG"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Henrique R"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lisboa S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Lúcio P"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Paiva A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Pedrosa C"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Ramos I"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sarmento AB"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Seabra P"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sevilha J"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Rego de Sousa MJ"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sousa S"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Sousa T"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Tavares M"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Trigo F"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Bergantim R"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "Roque A"
+          },
+          {
+            "authtype": "Author",
+            "clusterid": "",
+            "name": "João C"
+          }
+        ],
+        "availablefromurl": "",
+        "bookname": "",
+        "booktitle": "",
+        "chapter": "",
+        "doccontriblist": [],
+        "docdate": "",
+        "doctype": "citation",
+        "edition": "",
+        "elocationid": "doi: 10.20344/amp.22909",
+        "epubdate": "2025 Aug 29",
+        "essn": "1646-0758",
+        "fulljournalname": "Acta medica portuguesa",
+        "history": [
+          {
+            "date": "2025/01/20 00:00",
+            "pubstatus": "received"
+          },
+          {
+            "date": "2025/04/30 00:00",
+            "pubstatus": "accepted"
+          },
+          {
+            "date": "2025/10/05 00:33",
+            "pubstatus": "medline"
+          },
+          {
+            "date": "2025/08/30 08:45",
+            "pubstatus": "pubmed"
+          },
+          {
+            "date": "2025/08/30 04:02",
+            "pubstatus": "entrez"
+          }
+        ],
+        "issn": "0870-399X",
+        "issue": "10",
+        "lang": [
+          "por"
+        ],
+        "lastauthor": "João C",
+        "locationlabel": "",
+        "medium": "",
+        "nlmuniqueid": "7906803",
+        "pages": "654-668",
+        "pmcrefcount": "",
+        "pubdate": "2025 Oct 1",
+        "publisherlocation": "",
+        "publishername": "",
+        "pubstatus": "256",
+        "pubtype": [
+          "Journal Article",
+          "Practice Guideline",
+          "English Abstract"
+        ],
+        "recordstatus": "PubMed - indexed for MEDLINE",
+        "references": [],
+        "reportnumber": "",
+        "sortfirstauthor": "Pires AM",
+        "sortpubdate": "2025/10/01 00:00",
+        "sorttitle": "diagnosis and laboratory follow up of patients with multiple myeloma guidelines from the portuguese multiple myeloma group",
+        "source": "Acta Med Port",
+        "srccontriblist": [],
+        "srcdate": "",
+        "title": "[Diagnosis and Laboratory Follow-Up of Patients with Multiple Myeloma: Guidelines from the Portuguese Multiple Myeloma Group].",
+        "uid": "40884158",
+        "vernaculartitle": "Diagnóstico e Seguimento Laboratorial de Doentes com Mieloma Múltiplo: Recomendações do Grupo Português do Mieloma Múltiplo.",
+        "volume": "38"
+      },
+      "icite": {
+        "_id": "40884158",
+        "animal": 0.0,
+        "apt": 0.05,
+        "authors": [
+          {
+            "firstName": "Ana Marta",
+            "fullName": "Pires, Ana Marta",
+            "lastName": "Pires"
+          },
+          {
+            "firstName": "João Pedro",
+            "fullName": "Barreto, João Pedro",
+            "lastName": "Barreto"
+          },
+          {
+            "firstName": "Joana",
+            "fullName": "Caetano, Joana",
+            "lastName": "Caetano"
+          },
+          {
+            "firstName": "Maria José",
+            "fullName": "Soares, Maria José",
+            "lastName": "Soares"
+          },
+          {
+            "firstName": "Catarina",
+            "fullName": "Geraldes, Catarina",
+            "lastName": "Geraldes"
+          },
+          {
+            "firstName": "Bruno",
+            "fullName": "Fernandes, Bruno",
+            "lastName": "Fernandes"
+          },
+          {
+            "firstName": "Margarida",
+            "fullName": "Coucelo, Margarida",
+            "lastName": "Coucelo"
+          },
+          {
+            "firstName": "Sérgio",
+            "fullName": "Chacim, Sérgio",
+            "lastName": "Chacim"
+          },
+          {
+            "firstName": "Henrique",
+            "fullName": "Coelho, Henrique",
+            "lastName": "Coelho"
+          },
+          {
+            "firstName": "Cecília",
+            "fullName": "Correia, Cecília",
+            "lastName": "Correia"
+          },
+          {
+            "firstName": "Ana Paula",
+            "fullName": "Cruz, Ana Paula",
+            "lastName": "Cruz"
+          },
+          {
+            "firstName": "Manuel",
+            "fullName": "Cunha, Manuel",
+            "lastName": "Cunha"
+          },
+          {
+            "firstName": "Maria Rosário",
+            "fullName": "Cunha, Maria Rosário",
+            "lastName": "Cunha"
+          },
+          {
+            "firstName": "Nuno",
+            "fullName": "Cunha, Nuno",
+            "lastName": "Cunha"
+          },
+          {
+            "firstName": "Patrícia",
+            "fullName": "Ferraz, Patrícia",
+            "lastName": "Ferraz"
+          },
+          {
+            "firstName": "José Guilherme",
+            "fullName": "Freitas, José Guilherme",
+            "lastName": "Freitas"
+          },
+          {
+            "firstName": "Rui",
+            "fullName": "Henrique, Rui",
+            "lastName": "Henrique"
+          },
+          {
+            "firstName": "Susana",
+            "fullName": "Lisboa, Susana",
+            "lastName": "Lisboa"
+          },
+          {
+            "firstName": "Paulo",
+            "fullName": "Lúcio, Paulo",
+            "lastName": "Lúcio"
+          },
+          {
+            "firstName": "Artur",
+            "fullName": "Paiva, Artur",
+            "lastName": "Paiva"
+          },
+          {
+            "firstName": "Cláudia",
+            "fullName": "Pedrosa, Cláudia",
+            "lastName": "Pedrosa"
+          },
+          {
+            "firstName": "Inês",
+            "fullName": "Ramos, Inês",
+            "lastName": "Ramos"
+          },
+          {
+            "firstName": "Ana Bela",
+            "fullName": "Sarmento, Ana Bela",
+            "lastName": "Sarmento"
+          },
+          {
+            "firstName": "Patrícia",
+            "fullName": "Seabra, Patrícia",
+            "lastName": "Seabra"
+          },
+          {
+            "firstName": "Joana",
+            "fullName": "Sevilha, Joana",
+            "lastName": "Sevilha"
+          },
+          {
+            "firstName": "Maria José",
+            "fullName": "Rego de Sousa, Maria José",
+            "lastName": "Rego de Sousa"
+          },
+          {
+            "firstName": "Sara",
+            "fullName": "Sousa, Sara",
+            "lastName": "Sousa"
+          },
+          {
+            "firstName": "Teresa",
+            "fullName": "Sousa, Teresa",
+            "lastName": "Sousa"
+          },
+          {
+            "firstName": "Márcio",
+            "fullName": "Tavares, Márcio",
+            "lastName": "Tavares"
+          },
+          {
+            "firstName": "Fernanda",
+            "fullName": "Trigo, Fernanda",
+            "lastName": "Trigo"
+          },
+          {
+            "firstName": "Rui",
+            "fullName": "Bergantim, Rui",
+            "lastName": "Bergantim"
+          },
+          {
+            "firstName": "Adriana",
+            "fullName": "Roque, Adriana",
+            "lastName": "Roque"
+          },
+          {
+            "firstName": "Cristina",
+            "fullName": "João, Cristina",
+            "lastName": "João"
+          }
+        ],
+        "citation_count": 0,
+        "citations_per_year": 0.0,
+        "citedByClinicalArticle": false,
+        "citedByPmidsByYear": null,
+        "cited_by": null,
+        "cited_by_clin": null,
+        "doi": "10.20344/amp.22909",
+        "expected_citations_per_year": null,
+        "field_citation_rate": null,
+        "human": 1.0,
+        "is_clinical": true,
+        "is_research_article": false,
+        "journal": "Acta Med Port",
+        "molecular_cellular": 0.0,
+        "nih_percentile": null,
+        "pmid": 40884158,
+        "provisional": false,
+        "references": [
+          29154955,
+          26509779,
+          34829367,
+          21410373,
+          17638665,
+          28498784,
+          28151710,
+          18268286,
+          34857730,
+          26282654,
+          25619868,
+          27002115,
+          11856795,
+          33150391,
+          28584253,
+          18808676,
+          38031761,
+          30016549,
+          18285269,
+          32581022,
+          38821074,
+          31867775,
+          16361557,
+          30171031,
+          22552007,
+          19798094,
+          19520758,
+          34329441,
+          26662888,
+          28104919,
+          30573778,
+          24157580,
+          29061378,
+          34702976,
+          27017948,
+          33284948,
+          27511158,
+          36100605,
+          18822060,
+          17582068,
+          25838344,
+          22371180,
+          36383396,
+          29967379,
+          30012636,
+          26824981,
+          23288300,
+          25439696,
+          25899140
+        ],
+        "relative_citation_ratio": null,
+        "title": "[Diagnosis and Laboratory Follow-Up of Patients with Multiple Myeloma: Guidelines from the Portuguese Multiple Myeloma Group].",
+        "x_coord": 0.0,
+        "y_coord": 1.0,
+        "year": 2025
+      }
+    },
+    "provider": "pubmed",
+    "retrieved_at": "2026-09-19T00:00:00Z",
+    "sort_date": "2025-01-01",
+    "source_id": "pubmed:40884158",
+    "source_type": "literature",
+    "text": "[Diagnosis and Laboratory Follow-Up of Patients with Multiple Myeloma: Guidelines from the Portuguese Multiple Myeloma Group]\n\nJournal: Acta medica portuguesa\nPublication date: 2025 Oct 1\nPublication types: Journal Article, Practice Guideline, English Abstract\nPMID: 40884158\nDOI: 10.20344/amp.22909\n\nAbstract:\nMultiple myeloma is a neoplasm of plasma cells that in most cases is associated with the secretion of monoclonal immunoglobulins and can involve multiple organs. Its timely diagnosis is essential to limit or avoid irreversible damage and dysfunction of target organs. Appropriate initial stratification of patients allows for optimization in the selection and sequence of therapy, as well as proper follow-up during treatment and monitoring, impacting survival. These laboratory guidelines from the Portuguese Multiple Myeloma Group provide recommendations for the diagnosis and laboratory follow-up of patients with multiple myeloma. The follow-up and diagnosis of patients with other clinically significant monoclonal gammopathies were not included in this text. This article was based on international guidelines, scientific publications, and the experience of a panel of specialists in clinical and laboratory fields dedicated to the study and treatment of multiple myeloma.\nO mieloma múltiplo é uma neoplasia de plasmócitos que, na maioria dos casos, se associa à secreção de imunoglobulinas monoclonais e que pode cursar com um atingimento multiorgânico. O diagnóstico atempado do mieloma múltiplo é essencial para evitar ou limitar danos irreversíveis e disfunção dos órgãos-alvo. A apropriada estratificação inicial dos doentes permite otimizar a seleção e a sequência da terapêutica, assim como o correto seguimento durante o tratamento, com impacto na sobrevivência. As presentes recomendações laboratoriais do Grupo Português do Mieloma Múltiplo oferecem orientações para o diagnóstico e seguimento laboratorial dos doentes com mieloma múltiplo. O seguimento e diagnóstico de doentes com outras gamapatias monoclonais de significado clínico não foram incluídos neste texto. A sua elaboração tem por base orientações internacionais, publicações científicas e experiência de um painel de especialistas nacionais das áreas clínicas e laboratoriais dedicados ao estudo e tratamento do mieloma múltiplo.",
+    "text_sha": "ecb57427371b894f",
+    "title": "[Diagnosis and Laboratory Follow-Up of Patients with Multiple Myeloma: Guidelines from the Portuguese Multiple Myeloma Group]",
+    "trial": null,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40884158/"
+  }
+]

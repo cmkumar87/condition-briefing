@@ -1,0 +1,67 @@
+[project]
+name = "condition-briefing"
+version = "0.1.0"
+description = "Evidence-grounded condition briefings for health system strategy teams"
+requires-python = ">=3.12"
+
+# ---------------------------------------------------------------------------
+# Dependencies for ALL THREE STREAMS are pinned here up front, deliberately.
+# pyproject.toml is the one file every stream would otherwise want to edit, and
+# it is the only realistic source of merge conflicts in a directory-partitioned
+# repo. No stream edits this file. Need something not listed? Ask the contract
+# owner to add it here first.
+# ---------------------------------------------------------------------------
+dependencies = [
+    # shared contract
+    "pydantic>=2.9",
+    # Stream A — retrieval
+    "httpx>=0.27",
+    "tenacity>=9.0",
+    # Stream B — intelligence
+    "anthropic>=0.40",
+    # Stream C — surface
+    "jinja2>=3.1",
+    # integration
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "sse-starlette>=2.1",
+    "typer>=0.15",
+    "rich>=13.9",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3",
+    "pytest-asyncio>=0.24",
+    "respx>=0.21",
+    "ruff>=0.8",
+]
+# Kept separate: the eval stack is heavy and only Stream C needs it.
+evals = [
+    "deepeval>=1.0",
+]
+
+[project.scripts]
+briefing = "app.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests", "evals"]
+markers = [
+    "network: hits live external APIs (deselect with -m 'not network')",
+    "billed: makes a paid Anthropic API call",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

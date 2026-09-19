@@ -1,0 +1,322 @@
+{
+  "as_of": "2026-09-19",
+  "briefing_id": "brf-fixture-001",
+  "condition": "Multiple myeloma",
+  "contract_version": "1.0.0",
+  "implications_suppressed": false,
+  "profile": {
+    "analyst_reviewed": true,
+    "entry_terms": [
+      "Myeloma, Plasma-Cell",
+      "Kahler Disease",
+      "Myelomatosis"
+    ],
+    "icd10_codes": [
+      "C90.0"
+    ],
+    "mesh_descriptor": "Multiple Myeloma",
+    "mesh_ui": "D009101",
+    "query": "multiple myeloma",
+    "snomed_concepts": [],
+    "synonyms": [
+      "plasma cell myeloma"
+    ],
+    "unvalidated_synonyms": [
+      "bone marrow cancer"
+    ]
+  },
+  "run_id": "run-fixture-001",
+  "sections": [
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "cited_text": "Indications and usage:",
+              "document_index": null,
+              "end_char": 2442,
+              "source_id": "openfda:5900ea09-1687-4d73-912f-5b0527cba6be",
+              "start_char": 2420,
+              "text_sha": "b93447644f5aaba2"
+            }
+          ],
+          "claim_id": "soc-1",
+          "judge": null,
+          "text": "TECVAYLI is approved for relapsed or refractory multiple myeloma in combination with daratumumab and hyaluronidase-fihj."
+        },
+        {
+          "citations": [
+            {
+              "cited_text": "BOXED WARNING:",
+              "document_index": null,
+              "end_char": 182,
+              "source_id": "openfda:5900ea09-1687-4d73-912f-5b0527cba6be",
+              "start_char": 168,
+              "text_sha": "b93447644f5aaba2"
+            }
+          ],
+          "claim_id": "soc-2",
+          "judge": null,
+          "text": "The label carries a boxed warning for cytokine release syndrome and neurologic toxicity."
+        }
+      ],
+      "density": {
+        "guideline_count": 6,
+        "is_sparse": false,
+        "late_phase_trial_count": 5,
+        "newest_year": 2026,
+        "rationale": "5 late-phase trials and an approved label; sufficient for synthesis.",
+        "record_count": 12,
+        "trial_count": 5
+      },
+      "heading": "Current standard of care",
+      "kind": "evidence",
+      "section_id": "standard-of-care",
+      "sparse_notice": null
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "cited_text": "Phase: PHASE3",
+              "document_index": null,
+              "end_char": 168,
+              "source_id": "clinicaltrials.gov:NCT07285239",
+              "start_char": 155,
+              "text_sha": "cbf04bd3b1fb15be"
+            },
+            {
+              "cited_text": "Status: RECRUITING",
+              "document_index": null,
+              "end_char": 154,
+              "source_id": "clinicaltrials.gov:NCT07285239",
+              "start_char": 136,
+              "text_sha": "cbf04bd3b1fb15be"
+            }
+          ],
+          "claim_id": "emg-1",
+          "judge": null,
+          "text": "A Phase 3 trial is comparing belantamab mafodotin against daratumumab, each combined with bortezomib, lenalidomide and dexamethasone, in newly diagnosed transplant-ineligible myeloma."
+        },
+        {
+          "citations": [
+            {
+              "cited_text": "Enrollment: 750 participants",
+              "document_index": null,
+              "end_char": 176,
+              "source_id": "clinicaltrials.gov:NCT07764978",
+              "start_char": 148,
+              "text_sha": "68108a53259572bd"
+            },
+            {
+              "cited_text": "Lead sponsor: AstraZeneca (INDUSTRY)",
+              "document_index": null,
+              "end_char": 272,
+              "source_id": "clinicaltrials.gov:NCT07764978",
+              "start_char": 236,
+              "text_sha": "68108a53259572bd"
+            }
+          ],
+          "claim_id": "emg-2",
+          "judge": null,
+          "text": "AstraZeneca is enrolling 750 participants in a Phase 3 study of AZD0120 in transplant-ineligible newly diagnosed myeloma."
+        }
+      ],
+      "density": {
+        "guideline_count": 6,
+        "is_sparse": false,
+        "late_phase_trial_count": 5,
+        "newest_year": 2026,
+        "rationale": "5 late-phase trials and an approved label; sufficient for synthesis.",
+        "record_count": 12,
+        "trial_count": 5
+      },
+      "heading": "Emerging treatments in development",
+      "kind": "evidence",
+      "section_id": "emerging",
+      "sparse_notice": null
+    },
+    {
+      "claims": [
+        {
+          "citations": [
+            {
+              "cited_text": "Collaborators: GlaxoSmithKline",
+              "document_index": null,
+              "end_char": 343,
+              "source_id": "clinicaltrials.gov:NCT07285239",
+              "start_char": 313,
+              "text_sha": "cbf04bd3b1fb15be"
+            }
+          ],
+          "claim_id": "ply-1",
+          "judge": null,
+          "text": "GlaxoSmithKline is a named collaborator on the PrECOG-led belantamab mafodotin Phase 3 study."
+        },
+        {
+          "citations": [
+            {
+              "cited_text": "Lead sponsor: University of Leeds (OTHER)",
+              "document_index": null,
+              "end_char": 319,
+              "source_id": "clinicaltrials.gov:NCT07649525",
+              "start_char": 278,
+              "text_sha": "83f90e0d3034de84"
+            }
+          ],
+          "claim_id": "ply-2",
+          "judge": null,
+          "text": "The University of Leeds leads a 1226-participant response- and fitness-adapted trial with Cancer Research UK, Blood Cancer UK and Johnson & Johnson."
+        }
+      ],
+      "density": {
+        "guideline_count": 6,
+        "is_sparse": false,
+        "late_phase_trial_count": 5,
+        "newest_year": 2026,
+        "rationale": "5 late-phase trials and an approved label; sufficient for synthesis.",
+        "record_count": 12,
+        "trial_count": 5
+      },
+      "heading": "Key companies and institutions",
+      "kind": "evidence",
+      "section_id": "key-players",
+      "sparse_notice": null
+    },
+    {
+      "claims": [
+        {
+          "citations": [],
+          "claim_id": "imp-1",
+          "judge": null,
+          "text": "Bispecific and antibody-drug-conjugate regimens moving into newly diagnosed, transplant-ineligible populations would shift myeloma treatment volume earlier in the pathway and toward outpatient infusion capacity. CRS and neurotoxicity monitoring requirements imply step-up dosing capacity and staff training that community sites do not uniformly have today."
+        }
+      ],
+      "density": {
+        "guideline_count": 6,
+        "is_sparse": false,
+        "late_phase_trial_count": 5,
+        "newest_year": 2026,
+        "rationale": "5 late-phase trials and an approved label; sufficient for synthesis.",
+        "record_count": 12,
+        "trial_count": 5
+      },
+      "heading": "Strategic implications",
+      "kind": "implications",
+      "section_id": "implications",
+      "sparse_notice": null
+    }
+  ],
+  "sources": {
+    "clinicaltrials.gov:NCT07285239": {
+      "detail": "RECRUITING",
+      "provider": "clinicaltrials.gov",
+      "sort_date": "2026-09-01",
+      "source_id": "clinicaltrials.gov:NCT07285239",
+      "source_type": "trial",
+      "title": "Belantamab Mafodotin or Daratumumab With Bortezomib, Lenalidomide and Dexamethasone for Newly Diagnosed Multiple Myeloma",
+      "url": "https://clinicaltrials.gov/study/NCT07285239"
+    },
+    "clinicaltrials.gov:NCT07648264": {
+      "detail": "RECRUITING",
+      "provider": "clinicaltrials.gov",
+      "sort_date": "2026-09-11",
+      "source_id": "clinicaltrials.gov:NCT07648264",
+      "source_type": "trial",
+      "title": "Single-arm Study of IgPro20 in Adults With Secondary Immune Deficiencies Due to Hematologic Malignancies Treated With B-cell Targeting Chimeric Antigen Receptor T-cell and T-cell Redirecting Therapies",
+      "url": "https://clinicaltrials.gov/study/NCT07648264"
+    },
+    "clinicaltrials.gov:NCT07649525": {
+      "detail": "RECRUITING",
+      "provider": "clinicaltrials.gov",
+      "sort_date": "2026-07-01",
+      "source_id": "clinicaltrials.gov:NCT07649525",
+      "source_type": "trial",
+      "title": "Personalising Treatment for Myeloma Patients Based on Initial Response to NHS Treatment and Their Overall Fitness Level",
+      "url": "https://clinicaltrials.gov/study/NCT07649525"
+    },
+    "clinicaltrials.gov:NCT07764978": {
+      "detail": "RECRUITING",
+      "provider": "clinicaltrials.gov",
+      "sort_date": "2026-06-26",
+      "source_id": "clinicaltrials.gov:NCT07764978",
+      "source_type": "trial",
+      "title": "Study of AZD0120 in Newly Diagnosed Multiple Myeloma Ineligible for ASCT",
+      "url": "https://clinicaltrials.gov/study/NCT07764978"
+    },
+    "clinicaltrials.gov:NCT07772024": {
+      "detail": "RECRUITING",
+      "provider": "clinicaltrials.gov",
+      "sort_date": "2026-08-01",
+      "source_id": "clinicaltrials.gov:NCT07772024",
+      "source_type": "trial",
+      "title": "Inobrodib, Pomalidomide and Dexamethasone Versus Standard Available Therapy in Relapsed or Refractory Multiple Myeloma",
+      "url": "https://clinicaltrials.gov/study/NCT07772024"
+    },
+    "openfda:5900ea09-1687-4d73-912f-5b0527cba6be": {
+      "detail": null,
+      "provider": "openfda",
+      "sort_date": "2026-03-10",
+      "source_id": "openfda:5900ea09-1687-4d73-912f-5b0527cba6be",
+      "source_type": "drug_label",
+      "title": "TECVAYLI \u2014 FDA label",
+      "url": "https://labels.fda.gov/5900ea09-1687-4d73-912f-5b0527cba6be"
+    },
+    "pubmed:40884158": {
+      "detail": "Acta medica portuguesa",
+      "provider": "pubmed",
+      "sort_date": "2025-01-01",
+      "source_id": "pubmed:40884158",
+      "source_type": "literature",
+      "title": "[Diagnosis and Laboratory Follow-Up of Patients with Multiple Myeloma: Guidelines from the Portuguese Multiple Myeloma Group]",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40884158/"
+    },
+    "pubmed:41494138": {
+      "detail": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "provider": "pubmed",
+      "sort_date": "2026-01-01",
+      "source_id": "pubmed:41494138",
+      "source_type": "literature",
+      "title": "Treatment of Multiple Myeloma: ASCO-Ontario Health (Cancer Care Ontario) Living Guideline",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41494138/"
+    },
+    "pubmed:41611596": {
+      "detail": "Clinical lymphoma, myeloma & leukemia",
+      "provider": "pubmed",
+      "sort_date": "2026-01-01",
+      "source_id": "pubmed:41611596",
+      "source_type": "literature",
+      "title": "Bispecific Antibody Therapy for Multiple Myeloma: A Practical Toolkit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41611596/"
+    },
+    "pubmed:41671464": {
+      "detail": "Journal of the National Comprehensive Cancer Network : JNCCN",
+      "provider": "pubmed",
+      "sort_date": "2026-01-01",
+      "source_id": "pubmed:41671464",
+      "source_type": "literature",
+      "title": "Multiple Myeloma, Version 5.2026, NCCN Clinical Practice Guidelines In Oncology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41671464/"
+    },
+    "pubmed:42160714": {
+      "detail": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "provider": "pubmed",
+      "sort_date": "2026-01-01",
+      "source_id": "pubmed:42160714",
+      "source_type": "literature",
+      "title": "Treatment of Multiple Myeloma: ASCO Living Guideline, Version 2026.1.1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160714/"
+    },
+    "pubmed:42485589": {
+      "detail": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "provider": "pubmed",
+      "sort_date": "2026-01-01",
+      "source_id": "pubmed:42485589",
+      "source_type": "literature",
+      "title": "International Myeloma Working Group Recommendations for the Diagnosis and Management of Solitary Plasmacytomas",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485589/"
+    }
+  },
+  "suppression_reason": null
+}
