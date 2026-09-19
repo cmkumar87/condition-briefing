@@ -1,0 +1,51 @@
+{#
+  One section, rendered as one of two structurally different things.
+
+  Evidence is an <article>: ordinary reading surface, claims carrying chips.
+  Implications is an <aside> with a standing banner. The element itself differs
+  so the distinction is in the document tree, not only in the stylesheet — it
+  survives a screen reader, a reader-mode extension and a stylesheet that fails
+  to load.
+#}
+{% if section.is_evidence %}
+<article class="section section--evidence" id="{{ section.anchor }}" data-kind="evidence">
+  <h2>{{ section.heading }}</h2>
+{% else %}
+<aside class="section section--implications" id="{{ section.anchor }}" data-kind="implications"
+       aria-label="Strategic analysis, not sourced fact">
+  <p class="tier-banner">
+    Analysis &mdash; not sourced fact
+    <span class="tier-banner__note">Interpretation by this system, for decision framing.
+      The evidence above is what is documented.</span>
+  </p>
+  <h2>{{ section.heading }}</h2>
+{% endif %}
+
+  {%- if section.density %}
+  <p class="density__caption">{{ section.density_caption }}</p>
+  <ul class="density" aria-label="{{ section.density_caption }}">
+    {%- for label, value in section.density.stats %}
+    <li><b>{{ value }}</b> {{ label }}</li>
+    {%- endfor %}
+  </ul>
+  {%- endif %}
+
+  {#- Sparse is a NOTICE, not a defect: a section that reports its own thinness
+      is behaving correctly. Styling it as a failure would train readers to
+      ignore it. #}
+  {%- for defect in section.defects %}
+  <p class="notice">
+    <span class="notice__label">{{ defect.label }}</span>
+    {{ defect.detail }}
+  </p>
+  {%- endfor %}
+
+  {%- for claim in section.claims %}
+  {% include "_claim.html.j2" %}
+  {%- endfor %}
+
+  {%- if not section.claims %}
+  <p class="source__uncited-note">No claims were generated for this section.</p>
+  {%- endif %}
+
+{% if section.is_evidence %}</article>{% else %}</aside>{% endif %}
