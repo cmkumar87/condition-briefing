@@ -1,0 +1,93 @@
+{#
+  One claim.
+
+  Two structural invariants live in this partial and nowhere else:
+
+  * An implications claim is prefixed with a literal "ANALYSIS" word in the
+    DOM. Not a ::before, not a background: real text, so the label survives
+    being copied into an email, which is how half of these sentences travel.
+  * A defective claim is rendered in full and flagged. It is never dropped.
+    Silently hiding a broken claim would defeat the verification layer: the
+    reader would see a shorter, cleaner briefing and have no idea why.
+#}
+<div class="claim{% if claim.is_flagged %} claim--flagged{% elif claim.has_warnings %} claim--warned{% endif %}"
+     id="{{ claim.anchor }}" data-tier="{{ claim.tier }}" data-claim-id="{{ claim.claim_id }}">
+
+  {%- for defect in claim.defects %}
+  <strong class="claim__flag">
+    {% if defect.is_error %}&#9888; {% endif %}{{ defect.label }}
+    <span>{{ defect.detail }}</span>
+  </strong>
+  {%- endfor %}
+
+  <p class="claim__text">
+    {#- A literal em-dash and a literal space, so a pasted sentence reads
+        "Analysis — Bispecific..." and not "AnalysisBispecific...". #}
+    {%- if not claim.is_evidence %}<span class="tier-mark">Analysis &mdash;</span>&#32;{% endif -%}
+    {{ claim.text }}
+  </p>
+
+  <div class="claim__foot">
+    {#- One chip per distinct source. The href is the primary record itself:
+        the one click from this sentence to ClinicalTrials.gov, PubMed or the
+        FDA label. Never an internal page, which would cost a second click. #}
+    {%- for chip in claim.chips %}
+      {%- if chip.is_dangling %}
+    <span class="chip chip--broken" title="{{ chip.source_id }} is not listed in this briefing">
+      {{ chip.label }} &#9888; unresolved
+    </span>
+      {%- else %}
+    <a class="chip{% if chip.is_stopped_trial %} chip--stopped{% endif %}"
+       href="{{ chip.href }}" target="_blank" rel="noopener noreferrer"
+       title="{{ chip.source_type_label }} &mdash; {{ chip.source_title }}">
+      {{ chip.label }}
+      {%- if chip.is_stopped_trial %}
+      <span class="chip__status">not recruiting</span>
+      {%- endif %}
+      {%- if chip.span_count > 1 %}
+      <span class="chip__status">&times;{{ chip.span_count }}</span>
+      {%- endif %}
+    </a>
+      {%- endif %}
+    {%- endfor %}
+
+    {%- if claim.show_verdict %}
+    <span class="verdict verdict--{{ claim.verdict.tone }}">{{ claim.verdict.label }}</span>
+    {%- endif %}
+
+    <a class="claim__anchor" href="#{{ claim.anchor }}"
+       title="Permalink to this claim">#{{ claim.claim_id }}</a>
+  </div>
+
+  {%- if claim.verdict_reason %}
+  <span class="verdict__reason">{{ claim.verdict_reason }}{% if claim.verdict.judge_model %}
+    &mdash; {{ claim.verdict.judge_model }}{% endif %}</span>
+  {%- endif %}
+
+  {#- The exact spans the model was permitted to rely on. One click from the
+      sentence to the words; the chip above is one click to the record. #}
+  {%- if claim.citations %}
+  <details class="quotes">
+    <summary>Show the {{ claim.citations|length }} quoted
+      span{{ "" if claim.citations|length == 1 else "s" }}</summary>
+    {%- for cite in claim.citations %}
+    <div class="quote{% if cite.is_defective %} quote--broken{% endif %}">
+      <blockquote>{{ cite.cited_text }}</blockquote>
+      <div class="quote__src">
+        {%- if cite.is_dangling %}
+        Claims to quote <code>{{ cite.source_id }}</code>, which this briefing does not list.
+        {%- else %}
+        {{ cite.source_type_label }}:
+        <a href="#{{ cite.source_anchor }}">{{ cite.source_title }}</a>
+        &middot; chars {{ cite.offsets }}
+        {%- if cite.text_sha %} &middot; sha {{ cite.text_sha }}{% endif %}
+        {%- endif %}
+      </div>
+      {%- for defect in cite.defects %}
+      <div class="quote__src">&#9888; {{ defect.label }}. {{ defect.detail }}</div>
+      {%- endfor %}
+    </div>
+    {%- endfor %}
+  </details>
+  {%- endif %}
+</div>

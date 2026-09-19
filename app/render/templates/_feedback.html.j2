@@ -1,0 +1,38 @@
+{#
+  Layer-3 capture: the analyst usefulness rating, taken where the analyst
+  already is rather than in a survey they will never open.
+
+  Rendered only when RenderOptions.feedback_endpoint is set, so the default
+  artefact stays a static, self-contained file with no network behaviour.
+  The POST body is the JSON shape of evals.layer3.models.AnalystRating; the
+  endpoint contract is written down in NOTES-surface.md for whoever wires
+  app/api.
+#}
+<section class="feedback" id="feedback">
+  <h2>Was this briefing useful?</h2>
+  <form method="post" action="{{ view.feedback_endpoint }}" accept-charset="utf-8">
+    <input type="hidden" name="briefing_id" value="{{ view.briefing_id }}">
+    <input type="hidden" name="run_id" value="{{ view.run_id }}">
+    <input type="hidden" name="condition" value="{{ view.condition }}">
+    <input type="hidden" name="as_of" value="{{ view.freshness.as_of_iso }}">
+
+    <fieldset class="feedback__row" style="border:0;padding:0;margin:0 0 .6rem">
+      <legend class="asof__label">Usefulness &mdash; 1 not useful, 5 decision-ready</legend>
+      {%- for score in [1, 2, 3, 4, 5] %}
+      <label><input type="radio" name="usefulness" value="{{ score }}" required> {{ score }}</label>
+      {%- endfor %}
+    </fieldset>
+
+    <div class="feedback__row">
+      <label for="fb-rater">Your name or initials</label>
+      <input id="fb-rater" type="text" name="rater" autocomplete="name" required>
+    </div>
+
+    <div class="feedback__row">
+      <label for="fb-comment">What would have made it more useful?</label>
+      <textarea id="fb-comment" name="comment" rows="3"></textarea>
+    </div>
+
+    <button type="submit">Submit rating</button>
+  </form>
+</section>

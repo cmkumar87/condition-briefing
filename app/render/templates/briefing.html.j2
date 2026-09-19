@@ -1,0 +1,184 @@
+{#
+  The briefing document.
+
+  Reading order is deliberate and is the argument the page makes:
+
+    1. what condition, and AS OF WHEN          — a stale oncology briefing is
+                                                 worse than no briefing
+    2. the two-tier key                        — before any content, so the
+                                                 reader knows what they are
+                                                 about to be shown
+    3. structural integrity, with its scope    — including what was NOT checked
+    4. evidence sections                       — sourced, every claim clickable
+    5. implications                            — labeled analysis, last, inset
+    6. sources appendix                        — with back-references
+#}<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ view.condition }} &mdash; condition briefing, {{ view.freshness.as_of_iso }}</title>
+<meta name="description" content="Evidence-grounded condition briefing for {{ view.condition }}, as of {{ view.freshness.as_of_iso }}.">
+<meta name="briefing-id" content="{{ view.briefing_id }}">
+<meta name="briefing-as-of" content="{{ view.freshness.as_of_iso }}">
+{% if inline_css %}<style>
+{{ css }}
+</style>{% else %}<link rel="stylesheet" href="{{ css_href }}">{% endif %}
+</head>
+<body>
+<main class="sheet">
+
+  <header class="masthead">
+    <p class="masthead__kicker">Condition briefing &middot; service-line intelligence</p>
+    <h1>{{ view.condition }}</h1>
+
+    <div class="asof asof--{{ view.freshness.state }}">
+      <span class="asof__label">Evidence as of</span>
+      <time class="asof__date" datetime="{{ view.freshness.as_of_iso }}">
+        {{ view.freshness.as_of_long }}</time>
+      <span class="asof__age">{{ view.freshness.label }}</span>
+    </div>
+
+    <p class="masthead__meta">
+      briefing {{ view.briefing_id }} &middot; run {{ view.run_id }} &middot;
+      contract v{{ view.contract_version }} &middot; query &ldquo;{{ view.query }}&rdquo;
+    </p>
+  </header>
+
+  {#- The key. Shown once, before any content, so the two tiers are defined
+      before the reader meets either of them. #}
+  <div class="legend">
+    <p class="legend__item legend__item--evidence">
+      <span class="legend__name">Evidence</span>
+      Every claim carries a citation. Each chip links straight to the trial
+      registry record, PubMed entry or FDA label it quotes &mdash; one click from any
+      sentence to its primary source.
+    </p>
+    <p class="legend__item legend__item--analysis">
+      <span class="legend__name">Analysis</span>
+      Strategic interpretation by this system. Useful for framing a decision,
+      and <strong>not sourced fact</strong>. It carries no citations because there is
+      nothing to cite: no document says it.
+    </p>
+  </div>
+
+  {#- Integrity. Always rendered, clean or not, and always carrying its own
+      scope. A green banner with no stated scope is how a document gets
+      trusted further than it has earned. #}
+  <section class="integrity {{ 'integrity--clean' if view.integrity.is_clean else 'integrity--defective' }}"
+           id="integrity" aria-label="Structural integrity of this briefing">
+    {%- if view.integrity.is_clean %}
+    <p class="integrity__head">Structurally sound</p>
+    {%- else %}
+    <p class="integrity__head">
+      &#9888; {{ view.integrity.error_count }}
+      defect{{ "" if view.integrity.error_count == 1 else "s" }}
+      {%- if view.integrity.warning_count %} and {{ view.integrity.warning_count }}
+      warning{{ "" if view.integrity.warning_count == 1 else "s" }}{% endif %}
+      found in this briefing
+    </p>
+    {%- endif %}
+
+    <p class="integrity__counts">
+      {{ view.integrity.claim_count }} claims &middot;
+      {{ view.integrity.citation_count }} citations &middot;
+      {{ view.integrity.unjudged_claim_count }} of {{ view.integrity.claim_count }} claims
+      not independently judged
+      {%- if view.integrity.notice_count %} &middot;
+      {{ view.integrity.notice_count }} thing{{ "" if view.integrity.notice_count == 1 else "s" }}
+      to be aware of, noted in place{% endif %}
+    </p>
+
+    {%- if view.integrity.errors or view.integrity.warnings %}
+    <ul class="integrity__list">
+      {%- for defect in view.integrity.errors %}
+      <li><strong>{{ defect.label }}.</strong> {{ defect.detail }}
+        {%- if defect.claim_anchor %} <a href="#{{ defect.claim_anchor }}">Go to claim</a>{% endif %}
+      </li>
+      {%- endfor %}
+      {%- for defect in view.integrity.warnings %}
+      <li>{{ defect.label }}. {{ defect.detail }}
+        {%- if defect.claim_anchor %} <a href="#{{ defect.claim_anchor }}">Go to claim</a>{% endif %}
+      </li>
+      {%- endfor %}
+    </ul>
+    <p class="integrity__counts">
+      Defective claims are shown in place and flagged, never removed. A briefing that
+      quietly drops what it could not verify looks cleaner than it is.
+    </p>
+    {%- endif %}
+
+    <details class="scope">
+      <summary>What these checks do and do not cover</summary>
+      <p>Checked here, from the briefing document alone:</p>
+      <ul>
+        {%- for item in view.integrity.checks_performed %}
+        <li>{{ item }}</li>
+        {%- endfor %}
+      </ul>
+      <p class="scope__not"><strong>Not checked here.</strong> These need the source
+        corpus and are the job of the verification layer; where it has run, its
+        verdict appears on the claim:</p>
+      <ul class="scope__not">
+        {%- for item in view.integrity.checks_not_performed %}
+        <li>{{ item }}</li>
+        {%- endfor %}
+      </ul>
+    </details>
+  </section>
+
+  <ul class="toc">
+    {%- for section in view.sections %}
+    <li><a href="#{{ section.anchor }}"
+           class="{{ 'toc--analysis' if not section.is_evidence }}">{{ section.heading }}</a></li>
+    {%- endfor %}
+    <li><a href="#sources">Sources ({{ view.total_source_count }})</a></li>
+  </ul>
+
+  {#- Evidence first, in the order the pipeline produced it. #}
+  {%- for section in view.evidence_sections %}
+  {% include "_section.html.j2" %}
+  {%- endfor %}
+
+  {#- Implications last, so nothing sourced follows analysis and gets read in
+      its shadow. #}
+  {%- if view.implications_suppressed %}
+  <p class="notice notice--suppressed">
+    <span class="notice__label">Strategic implications suppressed</span>
+    {{ view.suppression_reason or "The evidence base was too thin to support analysis. No
+    implications were generated rather than speculating past what the evidence shows." }}
+  </p>
+  {%- endif %}
+
+  {%- for section in view.implications_sections %}
+  {% include "_section.html.j2" %}
+  {%- endfor %}
+
+  {% include "_sources.html.j2" %}
+
+  {%- if view.unvalidated_synonyms %}
+  <p class="source__uncited-note">
+    Search terms suggested but not validated against MeSH/RxNorm, and therefore not used
+    for retrieval: {{ view.unvalidated_synonyms|join(", ") }}.
+  </p>
+  {%- endif %}
+
+  {%- if view.feedback_endpoint %}
+  {% include "_feedback.html.j2" %}
+  {%- endif %}
+
+  <footer class="colophon">
+    <p>
+      Facts are retrieved from ClinicalTrials.gov, PubMed, NIH iCite and openFDA by
+      deterministic code and frozen before any model call. Synthesis runs through the
+      Anthropic Citations API, which constrains the model to quoting spans of documents it
+      was handed.
+    </p>
+    <p>
+      Not clinical decision support. Not a medical device. For service-line and
+      partnership planning only.
+    </p>
+  </footer>
+</main>
+</body>
+</html>

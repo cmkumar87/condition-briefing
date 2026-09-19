@@ -1,0 +1,65 @@
+{#
+  Sources appendix, built entirely from briefing.sources.
+
+  Two things make this more than a bibliography:
+
+  * back-references — each source lists the claims that leaned on it, so
+    "what did we conclude from this trial" is answerable in one direction and
+    "where did this number come from" in the other;
+  * retrieved-but-uncited sources are shown, dimmed. They are not defects:
+    the corpus is wider than the prose, and hiding the remainder would make
+    the evidence base look exactly as large as the argument built on it.
+#}
+<section class="sources" id="sources">
+  <h2>Sources</h2>
+  <p class="source__meta">
+    {{ view.total_source_count }} record{{ "" if view.total_source_count == 1 else "s" }} in this
+    briefing&rsquo;s evidence set.
+    {%- if view.uncited_source_count %}
+    {{ view.uncited_source_count }} were retrieved and ranked but not cited in the prose above;
+    they are listed, dimmed, for completeness.
+    {%- endif %}
+  </p>
+
+  {%- for group in view.source_groups %}
+  <h3>{{ group.label }}</h3>
+  <ul class="source-list">
+    {%- for source in group.sources %}
+    <li class="source{% if not source.is_cited %} source--uncited{% endif %}"
+        id="{{ source.anchor }}">
+      <div class="source__head">
+        <a class="source__title" href="{{ source.url }}" target="_blank"
+           rel="noopener noreferrer">{{ source.title }}</a>
+        {%- if source.is_stopped_trial %}
+        <span class="chip chip--stopped"><span class="chip__status">{{ source.detail }}</span></span>
+        {%- endif %}
+      </div>
+      <div class="source__meta">
+        <code>{{ source.label }}</code> &middot; {{ source.source_type_label }} &middot;
+        {{ source.provider }}
+        {%- if source.sort_date %} &middot; {{ source.sort_date.isoformat() }}{% endif %}
+        {%- if source.detail and not source.is_stopped_trial %} &middot; {{ source.detail }}
+        {%- endif %}
+      </div>
+      {%- if source.is_cited %}
+      <div class="source__backrefs">
+        Cited by
+        {%- for anchor in source.cited_by %}
+        <a href="#{{ anchor }}">#{{ anchor|replace("claim-", "") }}</a>
+        {%- endfor %}
+      </div>
+      {%- else %}
+      <div class="source__uncited-note">Retrieved, not cited above.</div>
+      {%- endif %}
+    </li>
+    {%- endfor %}
+  </ul>
+  {%- endfor %}
+
+  {%- if not view.source_groups %}
+  <p class="notice">
+    <span class="notice__label">No sources</span>
+    This briefing lists no sources, so nothing in it can be traced to a primary record.
+  </p>
+  {%- endif %}
+</section>
