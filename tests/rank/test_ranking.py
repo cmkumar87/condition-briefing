@@ -18,9 +18,11 @@ from app.models import FieldVelocity, ScoreTier, SourceType
 from app.rank import (
     DEFAULT_CONFIG,
     group_copublications,
+    half_life_months,
     normalize_title,
     parse_pub_date,
     rank_records,
+    recency_score,
 )
 from tests.rank._naive import naive_scores, rank_of
 
@@ -231,6 +233,34 @@ def test_collapse_does_not_merge_genuinely_different_documents(myeloma_corpus):
     )
 
 
+def test_an_explicit_copublication_link_is_honoured(myeloma_corpus):
+    """`copublication_of` wins over title matching when retrieval sets it.
+
+    It is None throughout the fixtures, and correctly so: detecting a
+    co-publication needs the whole corpus in view, so it cannot happen in a
+    per-record parser. Stream A does it corpus-wide before ranking. Ranking
+    still carries its own normalized-title fallback — a guideline double-counted
+    as corroboration is too expensive to depend on an upstream call having been
+    made — but when the field is populated it decides, including for a pair
+    whose titles do not match at all.
+    """
+    guideline, other = IMWG, NCCN
+    records = [r.model_copy(deep=True) for r in myeloma_corpus]
+    by_source = {r.source_id: r for r in records}
+    assert normalize_title(by_source[guideline].title) != normalize_title(by_source[other].title)
+    by_source[other].literature.copublication_of = guideline
+
+    groups = {
+        g.canonical.source_id: {d.source_id for d in g.duplicates}
+        for g in group_copublications(records)
+    }
+    merged = next(dups for dups in groups.values() if dups)
+    assert {other} <= merged or {guideline} <= merged
+
+    scores = by_id(rank_records(records, as_of=AS_OF))
+    assert bool(scores[guideline].superseded_by) != bool(scores[other].superseded_by)
+
+
 def test_merged_metrics_take_the_max_never_the_sum(heart_failure_corpus):
     """Summing a guideline's two journal citation counts would double-count it."""
     later = date(2028, 9, 19)
@@ -376,8 +406,39 @@ def test_pub_date_beats_the_coarse_sort_date(heart_failure_corpus):
     assert parse_pub_date(ccs.literature.pub_date) == date(2026, 4, 1)
 
 
-def test_fast_moving_fields_discount_older_evidence_harder(myeloma_corpus):
-    """Half-life comes from FieldVelocity, so oncology decays faster than cardiology."""
+def test_recency_decays_on_the_half_life_it_is_given():
+    """Recency is exponential decay on the supplied half-life, and nothing else.
+
+    Asserted at controlled rates rather than on velocity computed from the
+    fixtures. Both captured conditions hold 5 trials and 6 publications because
+    that is what the capture asked for, so a fixture-derived velocity contrast
+    between oncology and cardiology would be an artifact of pageSize, not a
+    property of either field.
+    """
+    fast = FieldVelocity(half_life_months=12.0)
+    slow = FieldVelocity(half_life_months=48.0)
+
+    assert half_life_months(fast, DEFAULT_CONFIG) == 12.0
+    assert half_life_months(None, DEFAULT_CONFIG) == DEFAULT_CONFIG.default_half_life_months
+
+    # One half-life halves the weight, whatever the half-life is.
+    for velocity in (fast, slow):
+        hl = half_life_months(velocity, DEFAULT_CONFIG)
+        assert recency_score(0.0, hl, DEFAULT_CONFIG) == pytest.approx(1.0)
+        assert recency_score(hl, hl, DEFAULT_CONFIG) == pytest.approx(0.5)
+        assert recency_score(2 * hl, hl, DEFAULT_CONFIG) == pytest.approx(0.25)
+
+    # A 24-month-old record keeps a quarter of its weight in a fast field and
+    # more than two thirds of it in a slow one.
+    assert recency_score(24.0, 12.0, DEFAULT_CONFIG) == pytest.approx(0.25)
+    assert recency_score(24.0, 48.0, DEFAULT_CONFIG) > 0.7
+
+    # An undated record is neutral, never penalised as though it were old.
+    assert recency_score(None, 12.0, DEFAULT_CONFIG) == DEFAULT_CONFIG.unknown_date_recency
+
+
+def test_a_shorter_half_life_discounts_older_evidence_harder(myeloma_corpus):
+    """The half-life ranking actually uses comes from the FieldVelocity passed in."""
     oncology = FieldVelocity(
         trials_per_year=180.0, publications_per_year=4200.0, half_life_months=12.0
     )
