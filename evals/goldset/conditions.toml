@@ -1,0 +1,86 @@
+# The gold set. Engineering metadata only — the clinical content lives in
+# must_include/<slug>.csv, which a clinician fills in.
+#
+# Five conditions, chosen to span therapeutic areas AND evidence densities.
+# Five is a small budget, so each slot has to exercise something the others do
+# not. A gold set of five dense oncology conditions would score beautifully and
+# tell us nothing about the case where the engine actually embarrasses itself:
+# a rare disease with four trials and no guideline.
+#
+# Adding a condition: add a block here and an empty CSV in must_include/.
+# The loader tolerates an uncurated CSV and reports it as pending.
+
+[[condition]]
+slug = "hfref"
+name = "Heart failure with reduced ejection fraction"
+query = "heart failure with reduced ejection fraction"
+therapeutic_area = "cardiology"
+evidence_density = "dense"
+rationale = """
+Stable cardiology with a dense guideline base and slow turnover. The contrast
+case for condition-adaptive recency: old evidence here is still good evidence,
+which is not true in oncology. Its fixtures also carry recent major-society
+guidelines with zero citations, the case that breaks a naive credibility x
+recency blend.
+"""
+corpus_fixture = "heart_failure"
+must_include = "must_include/hfref.csv"
+
+[[condition]]
+slug = "multiple_myeloma"
+name = "Multiple myeloma"
+query = "multiple myeloma"
+therapeutic_area = "oncology / hematology"
+evidence_density = "dense"
+rationale = """
+Fast-moving oncology with a crowded late-phase pipeline. Exercises ranking
+under abundance and the fastest recency decay in the set. The only condition
+with a committed Briefing fixture, so it is the one the surface and the
+deterministic gates are developed against.
+"""
+briefing_fixture = "briefing__multiple_myeloma"
+corpus_fixture = "multiple_myeloma"
+must_include = "must_include/multiple_myeloma.csv"
+
+[[condition]]
+slug = "sickle_cell_disease"
+name = "Sickle cell disease"
+query = "sickle cell disease"
+therapeutic_area = "hematology / genetic medicine"
+evidence_density = "moderate"
+rationale = """
+Moderate density with a recently transformed treatment landscape: approved gene
+therapies alongside decades-old standard of care. Exercises the case where the
+newest evidence and the most-cited evidence point at different therapies, and
+where a briefing that leans on citation counts gives the wrong answer.
+"""
+must_include = "must_include/sickle_cell_disease.csv"
+
+[[condition]]
+slug = "mash_nash"
+name = "Metabolic dysfunction-associated steatohepatitis (MASH/NASH)"
+query = "metabolic dysfunction-associated steatohepatitis"
+therapeutic_area = "hepatology / metabolic"
+evidence_density = "moderate"
+rationale = """
+A field that renamed itself. NASH -> MASH is a live nomenclature change, so
+this is the condition that tests whether resolve/ expands to both names; a
+literal query for either one misses half the field. Also a heavy pipeline with
+few approvals, which is the profile most likely to produce fluent overstatement.
+"""
+must_include = "must_include/mash_nash.csv"
+
+[[condition]]
+slug = "duchenne_muscular_dystrophy"
+name = "Duchenne muscular dystrophy"
+query = "Duchenne muscular dystrophy"
+therapeutic_area = "rare disease / neuromuscular"
+evidence_density = "sparse"
+rationale = """
+The graceful-degradation case, and the reason the set is five rather than four.
+Small trials, accelerated approvals on surrogate endpoints, few head-to-head
+comparisons and thin guideline coverage. The right output here says plainly
+that the evidence is thin and suppresses the implications layer. A fluent,
+confident briefing on DMD is a failure even if every citation resolves.
+"""
+must_include = "must_include/duchenne_muscular_dystrophy.csv"
